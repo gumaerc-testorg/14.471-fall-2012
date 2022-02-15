@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding pareto efficient income
   taxation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-471-public-economics-i-fall-2012/5bc75ba9dafa1cf22f06793d97e306c1_MIT14_471F12_recnotes9.pdf
+file: /media/courses/14-471-public-economics-i-fall-2012/5bc75ba9dafa1cf22f06793d97e306c1_MIT14_471F12_recnotes9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: 'Recitation #9 notes'
 uid: 5bc75ba9-dafa-1cf2-2f06-793d97e306c1

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding impact of factor tax 1 sector/2
   factors GE model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-471-public-economics-i-fall-2012/b3adaf3a7450bba6b340fe33a7f85705_MIT14_471F12_recnotes2.pdf
+file: /media/courses/14-471-public-economics-i-fall-2012/b3adaf3a7450bba6b340fe33a7f85705_MIT14_471F12_recnotes2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: 'Recitation #2 Notes'
 uid: b3adaf3a-7450-bba6-b340-fe33a7f85705
