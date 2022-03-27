@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00c88a64-4348-e79e-4e97-96ce5f933e3e
 resourcetype: Document
 title: Notes on Euler equation
 uid: 2673185d-a71c-8e4b-5123-d41730645b8f

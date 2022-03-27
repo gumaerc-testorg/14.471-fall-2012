@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00c88a64-4348-e79e-4e97-96ce5f933e3e
 resourcetype: Document
 title: Taxation of saving notes
 uid: 5437f712-6ff2-4a1c-4874-174e427bf411

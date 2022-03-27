@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 8206e495-d3a8-1289-7844-ff27c7536468
 resourcetype: Document
 title: MATLAB primer
 uid: b0d00406-7c2a-d34a-6cf1-ad3ca01852b1

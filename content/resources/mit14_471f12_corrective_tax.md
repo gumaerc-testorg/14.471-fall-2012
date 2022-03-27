@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00c88a64-4348-e79e-4e97-96ce5f933e3e
 resourcetype: Document
 title: Corrective taxation notes
 uid: 5928e0f2-53b0-7448-3ed9-a6cfc81d8684

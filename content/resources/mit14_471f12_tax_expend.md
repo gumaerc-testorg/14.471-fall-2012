@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00c88a64-4348-e79e-4e97-96ce5f933e3e
 resourcetype: Document
 title: Tax expenditures notes
 uid: 322183b9-4092-d7e8-950a-f34548a46066

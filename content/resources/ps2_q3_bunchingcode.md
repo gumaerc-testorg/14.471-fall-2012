@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 597cf42f-580e-77a2-1646-e4ea370fc1f5
 resourcetype: Other
 title: ps2_q3_bunchingcode.do
 uid: fe13075b-6aea-2493-071f-f4f8872d24a1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 597cf42f-580e-77a2-1646-e4ea370fc1f5
 resourcetype: Other
 title: pset3_code1.m
 uid: 7712b4e9-6783-ae80-e046-2bd8381183f3

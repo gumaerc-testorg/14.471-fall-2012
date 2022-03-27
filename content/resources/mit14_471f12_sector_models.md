@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00c88a64-4348-e79e-4e97-96ce5f933e3e
 resourcetype: Document
 title: Tax incidence in multi-sector models notes
 uid: e7a066f2-5c9c-1192-5668-0260c4b7d163

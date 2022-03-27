@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 8206e495-d3a8-1289-7844-ff27c7536468
 resourcetype: Document
 title: Pareto Efficient Income Taxation
 uid: ae6580d9-42fe-24d0-a332-ea2903e00e6c

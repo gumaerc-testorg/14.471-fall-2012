@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 8206e495-d3a8-1289-7844-ff27c7536468
 resourcetype: Document
 title: A Brief Introduction to Econometrics Simulations
 uid: 6868e466-1e8c-2d6b-8d8d-202fc97fffb4

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00c88a64-4348-e79e-4e97-96ce5f933e3e
 resourcetype: Document
 title: Empirical analysis of taxation and labor supply notes
 uid: 7ea57158-2143-e856-e83c-3d724ed58b4c
