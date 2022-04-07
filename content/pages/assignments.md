@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 597cf42f-580e-77a2-1646-e4ea370fc1f5
 ---
@@ -32,10 +33,10 @@ ACCOMPANYING FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 1 (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset1)
+{{< resource_link 33dd45c2-b739-d381-01a6-2e7aabf7756f "Problem set 1 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem set 1 solutions (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset1_sol)
+{{< resource_link 27dc8041-5a85-2603-f711-5f708f8d745c "Problem set 1 solutions (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -44,35 +45,17 @@ ACCOMPANYING FILES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 2 (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset2)
+{{< resource_link 069c33f1-affa-780b-046b-38a49c5691cc "Problem set 2 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem set 2 solutions (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset2_sol)
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Question 3 bunching code (DO)]({{< baseurl >}}/resources/ps2_q3_bunchingcode)
-
-[Tax return data (DTA)]({{< baseurl >}}/resources/taxreturns_ps2)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem set 3 (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset3)
-{{< tdclose >}}
-{{< tdopen >}}
-[Problem set 3 solutions (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset3_sol)
+{{< resource_link f5a3a027-a3cd-fb95-3a2a-b7a4529ef2b2 "Problem set 2 solutions (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Code 1 (M)]({{< baseurl >}}/resources/pset3_code1)
+{{< resource_link fe13075b-6aea-2493-071f-f4f8872d24a1 "Question 3 bunching code (DO)" >}}
 
-[Code 2 (M)]({{< baseurl >}}/resources/pset3_code2)
+{{< resource_link 1f581c89-fb95-c980-e622-d2fdb5725332 "Tax return data (DTA)" >}}
 
 
 {{< tdclose >}}
@@ -80,21 +63,39 @@ ACCOMPANYING FILES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 4 (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset4)
+{{< resource_link 84dc33f7-89c5-a86b-4719-e9e62e3503a9 "Problem set 3 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem set 4 solutions (PDF)]({{< baseurl >}}/resources/mit14_471f12_pset4_sol)
+{{< resource_link 1037ea3c-2462-f388-4c00-74ff23c9eadf "Problem set 3 solutions (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Code 1 (M)]({{< baseurl >}}/resources/ps4_code1)
+{{< resource_link 7712b4e9-6783-ae80-e046-2bd8381183f3 "Code 1 (M)" >}}
 
-[Code 2 (M)]({{< baseurl >}}/resources/pset4_code2)
+{{< resource_link 7fd918d2-1009-f106-11dd-09818347fe94 "Code 2 (M)" >}}
 
-[Code 3 (M)]({{< baseurl >}}/resources/pset4_code3)
 
-[Code 4 (M)]({{< baseurl >}}/resources/pset4_code4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link 892ff310-d21a-b757-29f6-60216b49ce1e "Problem set 4 (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{< resource_link 077b2a0d-bc19-29eb-3496-10c438061b91 "Problem set 4 solutions (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+{{< resource_link 3f77b903-53be-2fce-b828-2a7484a01d91 "Code 1 (M)" >}}
+
+{{< resource_link a248ab27-9312-6dfb-e847-6265d5dba02f "Code 2 (M)" >}}
+
+{{< resource_link 853f35ae-84d5-9f65-63ac-84216314fd73 "Code 3 (M)" >}}
+
+{{< resource_link d89d4ec9-4345-25d7-b939-e4a89f2cac7a "Code 4 (M)" >}}
 
 
 {{< tdclose >}}
@@ -106,4 +107,4 @@ ACCOMPANYING FILES
 Referee Report
 --------------
 
-[Referee report assignment (PDF)]({{< baseurl >}}/resources/mit14_471f12_refereereport)
+{{< resource_link 01a34eba-e16e-b1d0-db4b-229b96fa922d "Referee report assignment (PDF)" >}}
