@@ -1,15 +1,15 @@
 ---
 content_type: page
+description: 'This section provides a list of useful general references for the course
+  and the schedule of readings by session and topic. '
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 65ec541b-88c8-b9eb-ee18-80ef874e0b44
 ---
-
-Useful General References
--------------------------
+## Useful General References
 
 Atkinson, A., and J. Stiglitz. _Lectures on Public Economics_. Mcgraw-Hill College, 1980. ISBN: 9780070841055.
 
@@ -27,47 +27,25 @@ Institute for Fiscal Studies. [_Dimensions of Tax Design: The Mirrlees Review_](
 
 Myles, G. _Public Economics_. Cambridge University Press, 1995. ISBN: 9780521497695.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195737) Slemrod, J., and J. Bakija. [_Taxing Ourselves: A Citizen's Guide to the Debate over Taxes_](https://mitpress.mit.edu/9780262195737). MIT Press, 2008. ISBN: 9780262195737.
+![Buy at MIT Press](/images/mp_logo.gif) Slemrod, J., and J. Bakija. [_Taxing Ourselves: A Citizen's Guide to the Debate over Taxes_](https://mitpress.mit.edu/9780262195737). MIT Press, 2008. ISBN: 9780262195737.
 
 U. S. Congress, Congressional Budget Office. _The Budget and Economic Outlook: An Update_. BiblioGov, 2012. ISBN: 9781249915164.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **PART I**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Introduction to Tax Analysis**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Efficiency Costs of Taxation
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Chetty, R., A. Looney, et al. "[Salience and Taxation: Theory and Evidence](http://dx.doi.org/10.1257/aer.99.4.1145)." _American Economic Review_ 99, no. 4 (2009): 1145–77.
 
@@ -79,13 +57,13 @@ Einav, L., D. Knoepfle, et al. "[Sales Taxes and Internet Commerce](http://www.n
 
 Ellison, G., and S. Ellison. "[Tax Sensitivity and Home State Preferences in Internet Purchasing](http://dx.doi.org/10.1257/pol.1.2.53)." _American Economic Journal: Economic Policy_ 1, no. 2 (2009): 53–71.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262161855) Evans, W., J. Ringel, and D. Stech. "Tobacco Taxes and Public Policy to Discourage Smoking." In _Tax Policy and the Economy_. Vol 13. Edited by J. Poterba. MIT Press, 1999, pp. 1–56. ISBN: 9780262161855.
+![Buy at MIT Press](/images/mp_logo.gif) Evans, W., J. Ringel, and D. Stech. "Tobacco Taxes and Public Policy to Discourage Smoking." In _Tax Policy and the Economy_. Vol 13. Edited by J. Poterba. MIT Press, 1999, pp. 1–56. ISBN: 9780262161855.
 
 Goulder, L., and R. Williams. "[The Substantial Bias from Ignoring General Equilibrium Effects in Estimating Excess Burden, and a Practical Solution](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=394480)." _Journal of Political Economy_ 111 (2003): 898–927.
 
 Gruber, J., and B. Koszegi. "[Tax Incidence When Individuals Are Time-Inconsistent: The Case Of Cigarette Excise Taxes.](http://dx.doi.org/10.1016/j.jpubeco.2003.06.001)" _Journal of Public Economics_ 88, no. 9–10 (2004): 1959–87.
 
-Harding, M., E. Leibtag, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Neilsen Homescan Data." (PDF)](https://www.aeaweb.org/articles?id=10.1257/pol.4.4.169) mimeo, Stanford University, 2010.
+Harding, M., E. Leibtag, et al. ["The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Neilsen Homescan Data." (PDF)](https://www.aeaweb.org/articles?id=10.1257/pol.4.4.169) mimeo, Stanford University, 2010.
 
 Hausman, J. "[Exact Consumers Surplus and Deadweight Loss](http://econpapers.repec.org/article/aeaaecrev/v_3a71_3ay_3a1981_3ai_3a4_3ap_3a662-76.htm)." _American Economic Review_ 71, no. 4 (1981): 622–76.
 
@@ -95,21 +73,13 @@ Manning, W., Willard, et al. "[The Taxes of Sin: Do Smokers and Drinkers Pay The
 
 Marion, J., and E. Muehlegger. "[Measuring Illegal Activity and the Effects of Regulatory Innovation: A Study of Diesel Fuel Tax Evasion](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.172.8516)." _Journal of Political Economy_ 116 (2008): 633–66.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016346) Salanie, B. Chapter 1 in [_Economics of Taxation_](https://mitpress.mit.edu/9780262016346). MIT Press, 2011. ISBN: 9780262016346.
+![Buy at MIT Press](/images/mp_logo.gif) Salanie, B. Chapter 1 in [_Economics of Taxation_](https://mitpress.mit.edu/9780262016346). MIT Press, 2011. ISBN: 9780262016346.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 General Equilibrium Tax Incidence
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Atkinson, A., and J. Stiglitz. Chapter 6 in _Lectures on Public Economics_. McGraw Hill College, 1980. ISBN: 9780070841055.
 
@@ -117,41 +87,29 @@ Ballard, C., D. Fullerton, et al. Chapters 2, and 3 in [_A General Equilibrium M
 
 Bradford, D. "[Factor Prices May be Constant but Factor Returns are Not](http://dx.doi.org/10.1016/0165-1765(78)90024-1)." _Economic Letters_ 1, no. 3 (1978): 199–203.
 
-Cutler, D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tax Reform and the Stock Market: An Asset Price Approach." (PDF - 1.6MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Cutler.pdf) _American Economic Review_ 78, no. 5 (1988): 1107–17.
+Cutler, D. ["Tax Reform and the Stock Market: An Asset Price Approach." (PDF - 1.6MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Cutler.pdf) _American Economic Review_ 78, no. 5 (1988): 1107–17.
 
 Fullerton, D., and G. Metcalf. "[Tax Incidence](http://dx.doi.org/10.1016/S1573-4420(02)80005-2)." In _Handbook of Public Economics_. Vol 4. Edited by A. Auerbach, and M. Feldstein. North Holland, 2002. ISBN: 9780444823151.
 
 Gravelle, J., and K. Smetters. "[Does the Open Economy Assumption Really Mean That Labor Bears the Burden of a Capital Income Tax?](http://dx.doi.org/10.2202/1538-0637.1548)" _Advances in Economic Analysis & Policy_ 6, no. 1 (2006).
 
-Harberger, A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Incidence of the Corporation Income Tax." (PDF - 3.8MB)](http://piketty.pse.ens.fr/files/Harberger1962.pdf) _Journal of Political Economy_ 70 (1962): 215–40.
+Harberger, A. ["The Incidence of the Corporation Income Tax." (PDF - 3.8MB)](http://piketty.pse.ens.fr/files/Harberger1962.pdf) _Journal of Political Economy_ 70 (1962): 215–40.
 
-Poterba, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tax Subsidies to Owner-Occupied Housing: An Asset Market Approach." (PDF - 1.9MB)](http://dspace.mit.edu/bitstream/handle/1721.1/64166/taxsubsidiestoow00pote.pdf?sequence=1) _Quarterly Journal of Economics_ 99, no. 4 (1984): 729–52.
+Poterba, J. ["Tax Subsidies to Owner-Occupied Housing: An Asset Market Approach." (PDF - 1.9MB)](http://dspace.mit.edu/bitstream/handle/1721.1/64166/taxsubsidiestoow00pote.pdf?sequence=1) _Quarterly Journal of Economics_ 99, no. 4 (1984): 729–52.
 
 Stroebel, J., and M. Floetotto. "[Government Intervention in the Housing Market: Who Wins, Who Loses?](http://dx.doi.org/10.2139/ssrn.1582296)" mimeo, Stanford University Economics, 2010.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Taxation and Labor Supply—Empirical Work**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Married Men
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+![Buy at MIT Press](/images/mp_logo.gif) Alesina, A., E. Glaeser, and B. Sacerdote. "Work and Leisure in the U.S. and Europe: Why So Different?" In [_NBER Macroeconomics Annual 2005_](https://mitpress.mit.edu/9780262072724). Edited by D. Acemoglu, and K. Rogoff. MIT Press, 2006, pp. 1–64. ISBN: 9780262072724.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262072724) Alesina, A., E. Glaeser, and B. Sacerdote. "Work and Leisure in the U.S. and Europe: Why So Different?" In [_NBER Macroeconomics Annual 2005_](https://mitpress.mit.edu/9780262072724). Edited by D. Acemoglu, and K. Rogoff. MIT Press, 2006, pp. 1–64. ISBN: 9780262072724.
-
-Blomquist, S_._ "[Restrictions in Labor Supply Estimation: Is the MaCurdy Critique Correct?](http://dx.doi.org/10.1016/0165-1765(94)00593-Q)" _Economics Letters_ 47, no. 3–4 (1995): 229–35.
+Blomquist, S. "[Restrictions in Labor Supply Estimation: Is the MaCurdy Critique Correct?](http://dx.doi.org/10.1016/0165-1765(94)00593-Q)" _Economics Letters_ 47, no. 3–4 (1995): 229–35.
 
 ———. "[Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes](http://dx.doi.org/10.1016/0304-4076(94)01678-X)." _Journal of Econometrics_ 70, no. 2 (1996): 383–405.
 
@@ -171,7 +129,7 @@ Eissa, N., H. Kleven, et al. "[Evaluation of Four Tax Reforms in the United Stat
 
 Eklof, M., and H. Sacklen. "[The Hausman-MaCurdy Controversy: Why Do the Results Differ Across Studies?](http://ideas.repec.org/a/uwp/jhriss/v35y2000i1p204-220.html)" _Journal of Human Resources_ 35, no. 1 (2000): 204–20.
 
-Fullerton, D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reconciling Recent Estimates of the Marginal Welfare Cost of Taxation."](http://www.researchgate.net/publication/4719436_Reconciling_Recent_Estimates_of_the_Marginal_Welfare_Cost_of_Taxation) _American Economic Review_ 81, no. 1 (1991): 302–08.
+Fullerton, D. ["Reconciling Recent Estimates of the Marginal Welfare Cost of Taxation."](http://www.researchgate.net/publication/4719436_Reconciling_Recent_Estimates_of_the_Marginal_Welfare_Cost_of_Taxation) _American Economic Review_ 81, no. 1 (1991): 302–08.
 
 Gelber, A., D. Jones, et al. "[Individual Earnings Adjustment to Policy: Evidence from the Social Security Earnings Test](https://ideas.repec.org/p/nbr/nberwo/19491.html)." mimeo, Wharton School, 2012.
 
@@ -189,79 +147,63 @@ Kumar, A. "[Labor Supply, Deadweight Loss, and the Tax Reform Act of 1986: A Non
 
 Ljunge, M., and K. Ragan. "Labor Supply and the Tax Reform of the Century." mimeo, University of Chicago, 2005.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512008) Ljungqvist, L., and T. Sargent. "Do Taxes Explain European Employment? Indivisible Labor, Human Capital, Lotteries, and Saving." In [_NBER Macroeconomics Annual 2006_](https://mitpress.mit.edu/9780262512008). Edited by D. Acemoglu, K. Rogoff, and M. Woodford. MIT Press, 2007, pp. 181–244. ISBN: 9780262512008.
+![Buy at MIT Press](/images/mp_logo.gif) Ljungqvist, L., and T. Sargent. "Do Taxes Explain European Employment? Indivisible Labor, Human Capital, Lotteries, and Saving." In [_NBER Macroeconomics Annual 2006_](https://mitpress.mit.edu/9780262512008). Edited by D. Acemoglu, K. Rogoff, and M. Woodford. MIT Press, 2007, pp. 181–244. ISBN: 9780262512008.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Career Length: Effects of Curvature of Earnings Profiles, Earnings Shocks, and Social Security" (PDF)](http://www.econ.umn.edu/macro/papers/Ljungqvist_Sargent.pdf). NYU Economics Working Paper, 2010.
+———. ["Career Length: Effects of Curvature of Earnings Profiles, Earnings Shocks, and Social Security" (PDF)](http://www.econ.umn.edu/macro/papers/Ljungqvist_Sargent.pdf). NYU Economics Working Paper, 2010.
 
-MaCurdy, T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Empirical Model of Labor Supply in a Lifecycle Setting." (PDF - 1.1MB)](http://faculty.smu.edu/millimet/classes/eco7321/papers/macurdy.pdf) _Journal of Political Economy_ 89, no. 6 (1981): 1059–85.
+MaCurdy, T. ["An Empirical Model of Labor Supply in a Lifecycle Setting." (PDF - 1.1MB)](http://faculty.smu.edu/millimet/classes/eco7321/papers/macurdy.pdf) _Journal of Political Economy_ 89, no. 6 (1981): 1059–85.
 
 ———. "Work Disincentive Effects of Taxes: A Reexamination of Some Evidence." _American Economic Review_ 80 (1992): 243–9.
 
-Meghir, C., and D. Phillips. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Labor Supply and Taxes." (PDF)](http://www.ifs.org.uk/mirrleesreview/dimensions/ch3.pdf) _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2010. ISBN: 9780199553754.
+Meghir, C., and D. Phillips. ["Labor Supply and Taxes." (PDF)](http://www.ifs.org.uk/mirrleesreview/dimensions/ch3.pdf) _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2010. ISBN: 9780199553754.
 
 Moffitt, R., and M. Wilhelm. "Taxes and Labor Supply Decisions of the Affluent." In _Does Atlas Shrug? The Economic Consequences of Taxing the Rich_. Edited by J. Slemrod. Russell Sage Foundation, 2000, pp. 193–234. ISBN: 9780674001541. \[Preview with [Google Books](http://books.google.com/books?id=3mpiqxjB9AgC&printsec=frontcover)\]
 
 Ohanian, L., A. Raffo, et al. "[Long-Term Changes in Labor Supply and Taxes: Evidence from OECD Countries, 1956-2004](http://dx.doi.org/10.1016/j.jmoneco.2008.09.012)." _Journal of Monetary Economics_ 55, no. 8 (2008): 1353–62.
 
-Prescott, E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Why Do Americans Work So Much More Than Europeans?" (PDF)](http://www.minneapolisfed.org/research/QR/QR2811.pdf) _Federal Reserve Bank of Minneapolis Review_ 28, no. 1 (2004): 2–13.
+Prescott, E. ["Why Do Americans Work So Much More Than Europeans?" (PDF)](http://www.minneapolisfed.org/research/QR/QR2811.pdf) _Federal Reserve Bank of Minneapolis Review_ 28, no. 1 (2004): 2–13.
 
 Rogerson, R. "[Taxation and Market Work: Is Scandinavia an Outlier?](http://dx.doi.org/10.1007/s00199-006-0164-9)" _Economic Theory_ 32, no. 1 (2007): 59–85.
 
-Rogerson, R., and J. Wallenius. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Micro and Macro Elasticities in a Life Cycle Model with Taxes." (PDF)](http://elsa.berkeley.edu/~saez/course/Rogerson_JET%282009%29.pdf) _Journal of Economic Theory_ 144, no. 6 (2009): 2277–92.
+Rogerson, R., and J. Wallenius. ["Micro and Macro Elasticities in a Life Cycle Model with Taxes." (PDF)](http://elsa.berkeley.edu/~saez/course/Rogerson_JET%282009%29.pdf) _Journal of Economic Theory_ 144, no. 6 (2009): 2277–92.
 
 Saez, E. "[Do Tax Filers Bunch at Kink Points?](http://dx.doi.org/10.1257/pol.2.3.180)" _American Economic Journal: Economic Policy_ 2, no. 3 (2010): 180–212.
 
 Showalter, M., and N. Thurston. "[Taxes and Labor Supply of High-Income Physicians](http://dx.doi.org/10.1016/S0047-2727(97)00021-2)." _Journal of Public Economics_ 66, no. 1 (1997): 73–97.
 
-Ziliak, J., and T. Kniesner. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Estimating Life Cycle Labor Supply Tax Effects](https://www.jstor.org/stable/10.1086/250062)." _Journal of Political Economy_ 107, no. 2 (1999): 326–59.
+Ziliak, J., and T. Kniesner. "[Estimating Life Cycle Labor Supply Tax Effects](https://www.jstor.org/stable/10.1086/250062)." _Journal of Political Economy_ 107, no. 2 (1999): 326–59.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Taxation and the Labor Supply of Married Women
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Blau, F., and L. Kahn. ["Changes in the Labor Supply Behavior of Married Women, 1980-2000." (PDF)](http://www.nber.org/papers/w11230.pdf?new_window=1) _Journal of Labor Economics_ 25 (2007): 393–438.
 
-Blau, F., and L. Kahn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Changes in the Labor Supply Behavior of Married Women, 1980-2000." (PDF)](http://www.nber.org/papers/w11230.pdf?new_window=1) _Journal of Labor Economics_ 25 (2007): 393–438.
+Eissa, N. ["Taxation and Labor Supply of Married Women: The Tax Reform Act of 1986 as a Natural Experiment." (PDF)](http://www.nber.org/papers/w5023.pdf?new_window=1) NBER Working Paper, no. 5023, Febraury 1995.
 
-Eissa, N. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Taxation and Labor Supply of Married Women: The Tax Reform Act of 1986 as a Natural Experiment." (PDF)](http://www.nber.org/papers/w5023.pdf?new_window=1) NBER Working Paper, no. 5023, Febraury 1995.
+Gelber, A. ["Taxation and Family Labor Supply." (PDF)](https://www.bus.umich.edu/otpr/papers/Gelber.pdf) mimeo, Wharton School, 2008.
 
-Gelber, A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Taxation and Family Labor Supply." (PDF)](https://www.bus.umich.edu/otpr/papers/Gelber.pdf) mimeo, Wharton School, 2008.
-
-Mroz, T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Sensitivity of an Empirical Model of Married Women's Hours of Work to Economic and Statistical Assumptions." (PDF - 3.4MB)](http://eml.berkeley.edu/~cle/e250a_f13/mroz-paper.pdf) _Econometrica_ 55, no. 4 (1987): 765–99.
+Mroz, T. ["The Sensitivity of an Empirical Model of Married Women's Hours of Work to Economic and Statistical Assumptions." (PDF - 3.4MB)](http://eml.berkeley.edu/~cle/e250a_f13/mroz-paper.pdf) _Econometrica_ 55, no. 4 (1987): 765–99.
 
 Selin, H. "[The Rise in Female Employment and the Role of Tax Incentives: An Empirical Analysis of the Swedish Individual Tax Reform of 1971](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1396603##)." CESifo Working Paper, no. 2629, April 2009.
 
 Triest, R. "[The Effect of Income Taxation on Labor Supply in the United States](http://ideas.repec.org/a/uwp/jhriss/v25y1990i3p491-516.html)." _Journal of Human Resources_ 25, no. 3 (1990): 491–516.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Earned Income Tax Credit: Taxes and Labor Supply at Low Incomes
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Beaudry, P., C. Blackorby, et al. "[Taxes and Employment Subsidies in Optimal Redistribution Programs](http://dx.doi.org/10.1257/aer.99.1.216)." _American Economic Review_ 99, no. 1 (2009): 261–42.
 
 Blundell, R. and A. Shephard. "[Employment, Hours of Work, and the Optimal Taxation of Low-Income Families](http://ideas.repec.org/p/iza/izadps/dp5745.html)." _Review of Economic Studies_ 79 (2012): 481–510.
 
-Cancian, M., and A. Levinson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Labor Supply Effects of the EITC: Evidence from Wisconsin's Supplemental Benefit for Families with Three Children." (PDF)](http://www8.georgetown.edu/departments/economics/pdf/208.pdf) _National Tax Journal_ 59, no. 4 (2006): 781–800.
+Cancian, M., and A. Levinson. ["Labor Supply Effects of the EITC: Evidence from Wisconsin's Supplemental Benefit for Families with Three Children." (PDF)](http://www8.georgetown.edu/departments/economics/pdf/208.pdf) _National Tax Journal_ 59, no. 4 (2006): 781–800.
 
-Chetty, R., and E. Saez. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Teaching the Tax Code: Earnings Responses to an Experiment with EITC Recipients." (PDF - 1.4MB)](http://www.nber.org/papers/w14836.pdf?new_window=1) NBER Working Paper, no. 14836, December 2009. (forthcoming, American Economic Journal: Applied Economics)
+Chetty, R., and E. Saez. ["Teaching the Tax Code: Earnings Responses to an Experiment with EITC Recipients." (PDF - 1.4MB)](http://www.nber.org/papers/w14836.pdf?new_window=1) NBER Working Paper, no. 14836, December 2009. (forthcoming, American Economic Journal: Applied Economics)
 
 Eissa, N., and H. Hoynes. "[Taxes and the Labor Market Participation of Married Couples: The Earned Income Tax Credit](http://dx.doi.org/10.1016/j.jpubeco.2003.09.005)." _Journal of Public Economics_ 88, no. 9–10 (2004): 1931–58.
 
@@ -271,147 +213,107 @@ Hotz, V., and J. K. Scholz. "The Earned Income Tax Credit." In _Means-Tested Wel
 
 Meyer, B. "[Labor Supply at the Extensive and Intensive Margins: The EITC, Welfare, and Hours Worked](http://dx.doi.org/10.1257/000282802320191642)." _American Economic Review_ 92, no. 2 (2002): 373–9.
 
-Meyer, B., and D. Rosenbaum. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Making Single Mothers Work: Recent Tax and Welfare Policy and Its Effects." (PDF - 1.7MB)](http://www.nber.org/papers/w7491.pdf?new_window=1) _National Tax Journal_ 53 (2000, Part 2): 1027–61.
+Meyer, B., and D. Rosenbaum. ["Making Single Mothers Work: Recent Tax and Welfare Policy and Its Effects." (PDF - 1.7MB)](http://www.nber.org/papers/w7491.pdf?new_window=1) _National Tax Journal_ 53 (2000, Part 2): 1027–61.
 
-Rothstein, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Unintended Consequences of Encouraging Work: Tax Incidence and the EITC." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.3478&rep=rep1&type=pdf) Working paper, no. 165, Princeton University, May 2008.
+Rothstein, J. ["The Unintended Consequences of Encouraging Work: Tax Incidence and the EITC." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.3478&rep=rep1&type=pdf) Working paper, no. 165, Princeton University, May 2008.
 
 ———. "[Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence](http://dx.doi.org/10.1257/pol.2.1.177)." _American Economic Journal: Economic Policy_ 2, no. 1 (2010): 177–208.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tax Rates and Taxable Income
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Bastani, S., and H. Selin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bunching and Non-Bunching at Kink Points of the Swedish Tax Schedule." (PDF)](http://www.econ.ku.dk/Kalender/seminarerepru/epru13042012/Bastani_Selin_20120203.pdf) Working Paper 2011:12, Uppsala Center for Fiscal Studies.
+Bastani, S., and H. Selin. ["Bunching and Non-Bunching at Kink Points of the Swedish Tax Schedule." (PDF)](http://www.econ.ku.dk/Kalender/seminarerepru/epru13042012/Bastani_Selin_20120203.pdf) Working Paper 2011:12, Uppsala Center for Fiscal Studies.
 
 Chetty, R. "[Is the Taxable Income Elasticity Sufficient to Calculate Deadweight Loss? The Implications of Evasion and Avoidance](http://dx.doi.org/10.1257/pol.1.2.31)." _American Economic Journal: Economic Policy_ 1, no. 2 (2009): 31–52.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply." (PDF)](http://www.nber.org/papers/w15616.pdf?new_window=1) NBER Working Paper, no. 15616, December 2009.
+———. ["Bounds on Elasticities with Optimization Frictions: An Application to Taxation and Labor Supply." (PDF)](http://www.nber.org/papers/w15616.pdf?new_window=1) NBER Working Paper, no. 15616, December 2009.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262660815) Feenberg, D., and J. Poterba. "Income Inequality and the Incomes of High Income Taxpayers: Evidence from Tax Returns." In _Tax Policy and the Economy_. Vol 7. Edited by J. Poterba. MIT Press, 1993, pp. 145–73. ISBN: 9780262660815.
+![Buy at MIT Press](/images/mp_logo.gif) Feenberg, D., and J. Poterba. "Income Inequality and the Incomes of High Income Taxpayers: Evidence from Tax Returns." In _Tax Policy and the Economy_. Vol 7. Edited by J. Poterba. MIT Press, 1993, pp. 145–73. ISBN: 9780262660815.
 
 Feldstein, M. "[The Effects of Marginal Tax Rates on Taxable Income: A Panel Study of the 1986 Tax Reform](http://ideas.repec.org/a/ucp/jpolec/v103y1995i3p551-72.html)." _Journal of Political Economy_ 103, no. 3 (1995): 551–71.
 
-Gruber, J., and E. Saez. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Elasticity of Taxable Income: Evidence and Implications." (PDF)](http://elsa.berkeley.edu/~saez/gruber.pdf) _Journal of Public Economics_ 84 (2002): 1–32.
+Gruber, J., and E. Saez. ["The Elasticity of Taxable Income: Evidence and Implications." (PDF)](http://elsa.berkeley.edu/~saez/gruber.pdf) _Journal of Public Economics_ 84 (2002): 1–32.
 
-Kopczuk, W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Tax Bases, Tax Rates and the Elasticity of Reported Income](http://ideas.repec.org/a/eee/pubeco/v89y2005i11-12p2093-2119.html)." _Journal of Public Economics_ 89 (2004): 2093–119.
+Kopczuk, W. "[Tax Bases, Tax Rates and the Elasticity of Reported Income](http://ideas.repec.org/a/eee/pubeco/v89y2005i11-12p2093-2119.html)." _Journal of Public Economics_ 89 (2004): 2093–119.
 
-Piketty, T., E. Saez, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities." (PDF)](http://www.nber.org/papers/w17616.pdf) NBER Working Paper, no. 17616, November 2011.
+Piketty, T., E. Saez, et al. ["Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities." (PDF)](http://www.nber.org/papers/w17616.pdf) NBER Working Paper, no. 17616, November 2011.
 
-Romer, C., and D. Romer. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Incentive Effects of Marginal Tax Rates: Evidence from the Interwar Era." (PDF)](https://www.nber.org/papers/w17860) NBER Working Paper, no. 17860, November 2012.
+Romer, C., and D. Romer. ["The Incentive Effects of Marginal Tax Rates: Evidence from the Interwar Era." (PDF)](https://www.nber.org/papers/w17860) NBER Working Paper, no. 17860, November 2012.
 
-Saez, E., J. Slemrod, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review." (PDF)](http://www.nber.org/papers/w15012.pdf?new_window=1) _Journal of Economic Literature_ 50, no. 1 (2012): 3–50.
+Saez, E., J. Slemrod, et al. ["The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review." (PDF)](http://www.nber.org/papers/w15012.pdf?new_window=1) _Journal of Economic Literature_ 50, no. 1 (2012): 3–50.
 
-Trabandt, M., and H. Uhlig. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["How Far Are We From the Slippery Slope? The Laffer Curve Revisited." (PDF)](http://www.nber.org/papers/w15343.pdf) NBER Working Paper, no. 15343, September 2009.
+Trabandt, M., and H. Uhlig. ["How Far Are We From the Slippery Slope? The Laffer Curve Revisited." (PDF)](http://www.nber.org/papers/w15343.pdf) NBER Working Paper, no. 15343, September 2009.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tax Expenditures
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Burman, L., and W. Randolph. ["Measuring Permanent Responses to Capital-Gains Tax Changes in Panel Data." (PDF - 2.1MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Burman_Randolph.pdf) _American Economic Review_ 84, no. 4 (1994): 794–809.
 
-Burman, L., and W. Randolph. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Measuring Permanent Responses to Capital-Gains Tax Changes in Panel Data." (PDF - 2.1MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Burman_Randolph.pdf) _American Economic Review_ 84, no. 4 (1994): 794–809.
-
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661294) Gruber, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Taxes and Health Insurance." (PDF)](http://www.nber.org/papers/w8657.pdf) In _Tax Policy and the Economy._ Vol 16. Edited by J. Poterba_._ MIT Press, 2002, pp. 37–66. ISBN: 9780262661294.
+![Buy at MIT Press](/images/mp_logo.gif) Gruber, J. ["Taxes and Health Insurance." (PDF)](http://www.nber.org/papers/w8657.pdf) In _Tax Policy and the Economy._ Vol 16. Edited by J. Poterba. MIT Press, 2002, pp. 37–66. ISBN: 9780262661294.
 
 Gruber, J., and E. Washington. "[Subsidies to Employee Health Insurance Premiums and the Health Insurance Market.](http://dx.doi.org/10.1016/j.jhealeco.2004.08.004)" _Journal of Health Economics_ 24, no. 2 (2005): 253–76.
 
 Poterba, J., and T. Sinai. "[Revenue Costs and Incentive Effects of the Mortgage Interest Deduction for Owner-Occupied Housing](http://connection.ebscohost.com/c/articles/62079701/revenue-costs-incentive-effects-mortgage-interest-deduction-owner-occupied-housing)." _National Tax Journal_ 64, no. 2 (2011): 531–64.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Empirical Aspects of Taxing Capital Income**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Capital Income, Wealth, and Saving Behavior: Stylized Facts and Model Formulation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Bricker, J., A. Kennickell, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Changes in U.S. Family Finances from 2007 to 2010: Evidence from the Survey of Consumer Finances." (PDF)](http://www.federalreserve.gov/pubs/bulletin/2012/pdf/scf12.pdf) _Federal Reserve Bulletin_ 98, no. 2 (2012): 1–80.
+Bricker, J., A. Kennickell, et al. ["Changes in U.S. Family Finances from 2007 to 2010: Evidence from the Survey of Consumer Finances." (PDF)](http://www.federalreserve.gov/pubs/bulletin/2012/pdf/scf12.pdf) _Federal Reserve Bulletin_ 98, no. 2 (2012): 1–80.
 
 Altonji, J., F. Hayashi, et al. "[Parental Altruism and Inter Vivos Transfers: Theory and Evidence](http://econpapers.repec.org/article/ucpjpolec/v_3a105_3ay_3a1997_3ai_3a6_3ap_3a1121-66.htm)." _Journal of Political Economy_ 105, no. 6 (1997): 1121–66.
 
 Bernheim, B., A. Shleifer, et al. "[The Strategic Bequest Motive](http://ideas.repec.org/a/ucp/jpolec/v93y1985i6p1045-76.html)." _Journal of Political Economy_ 93, no. 6 (1985): 1045–76.
 
-Bernheim, B., and S. Severinov. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bequests as Signals: An Explanation for the Equal Division Puzzle." (PDF)](http://www.severinov.com/published_papers/bequests_as_signals_%20jpe2003.pdf) _Journal of Political Economy_ 111, no. 4 (2003): 733–64.
+Bernheim, B., and S. Severinov. ["Bequests as Signals: An Explanation for the Equal Division Puzzle." (PDF)](http://www.severinov.com/published_papers/bequests_as_signals_%20jpe2003.pdf) _Journal of Political Economy_ 111, no. 4 (2003): 733–64.
 
 De Nardi, M., E. French, et al. "[Why do the Elderly Save? The Role of Medical Expenses](http://econpapers.repec.org/article/ucpjpolec/v_3a118_3ay_3a2010_3ai_3a1_3ap_3a39-75.htm)." _Journal of Political Economy_ 118, no. 1 (2010): 39–75.
 
-Dynan, K., J. Skinner, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Do the Rich Save More?" (PDF)](https://www.nber.org/papers/w7906) _Journal of Political Economy_ 112, no. 2 (2004): 397–444.
+Dynan, K., J. Skinner, et al. ["Do the Rich Save More?" (PDF)](https://www.nber.org/papers/w7906) _Journal of Political Economy_ 112, no. 2 (2004): 397–444.
 
 Kotlikoff, L. "[Intergenerational Transfers and Saving](http://dx.doi.org/10.1257/jep.2.2.41)." _Journal of Economic Perspectives_ 2, no. 2 (1988): 41–58.
 
-Modigliani, F. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Role of Intergenerational Transfers and Lifecycle Saving in the Accumulation of Wealth." (PDF)](http://piketty.pse.ens.fr/files/Modigliani1988.pdf) _Journal of Economic Perspectives_ 2, no. 2 (1988): 15–40.
+Modigliani, F. ["The Role of Intergenerational Transfers and Lifecycle Saving in the Accumulation of Wealth." (PDF)](http://piketty.pse.ens.fr/files/Modigliani1988.pdf) _Journal of Economic Perspectives_ 2, no. 2 (1988): 15–40.
 
 Poterba, J., S. Venti, et al. "[The Composition and Draw-Down of Wealth in Retirement](http://dx.doi.org/10.1257/jep.25.4.95)." _Journal of Economic Perspectives_ 25, no. 4 (2011): 95–118.
 
 ———. "Were They Prepared for Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts." In _Investigations in the Economics of Aging_. Edited by D. Wise. University of Chicago Press, 2012, pp. 21–69. ISBN: 9780226903132. \[Preview with [Google books](http://books.google.com/books?id=sGcpOUZ8twIC&pg=PA21#v=onepage)\]
 
-Wilhelm, M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bequest Behavior and the Effect of Heirs Earnings: Testing the Altruistic Model of Bequests."](https://www.jstor.org/stable/2118309?seq=1#page_scan_tab_contents) _American Economic Review_ 86, no. 4 (1996): 874–92.
+Wilhelm, M. ["Bequest Behavior and the Effect of Heirs Earnings: Testing the Altruistic Model of Bequests."](https://www.jstor.org/stable/2118309?seq=1#page_scan_tab_contents) _American Economic Review_ 86, no. 4 (1996): 874–92.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tax Policy, Rates of Return, and Saving
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Angeletos, G. -M., D. Laibson, et al. "[The Hyperbolic Consumption Model: Calibration, Simulation, and Empirical Evaluation](http://dx.doi.org/10.1257/jep.15.3.47)." _Journal of Economic Perspectives_ 15, no. 3 (2001): 47–68.
 
 Atkinson, A., and J. Stiglitz. Chapter 3 in _Lectures in Public Economics_. Mcgraw-Hill College, 1980. ISBN: 9780070841055.
 
-Attanasio, O., and M. Wakefield. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Effect on Consumption and Saving of Taxing Asset Returns." _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2010, pp. 675–763. ISBN: 9780199553754.
+Attanasio, O., and M. Wakefield. "The Effect on Consumption and Saving of Taxing Asset Returns." _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2010, pp. 675–763. ISBN: 9780199553754.
 
 Attanasio, O., and G. Weber. "[Consumption and Saving: Models of Intertemporal Allocation and their Implications for Public Policy](http://dx.doi.org/10.1257/jel.48.3.693)." _Journal of Economic Literature_ 48, no. 3 (2010): 693–751.
 
-Barsky, R., T. Juster, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Preference Parameters and Behavioral Heterogeneity: An Experimental Approach in the Health and Retirement Study." (PDF)](https://www.semanticscholar.org/paper/Preference-Parameters-and-Behavioral-Heterogeneity%3A-Barsky-Juster/763545bd2539238abbfad9a46330c546729ee0d3) _Quarterly Journal of Economics_ 112, no. 2 (1997): 537–79.
+Barsky, R., T. Juster, et al. ["Preference Parameters and Behavioral Heterogeneity: An Experimental Approach in the Health and Retirement Study." (PDF)](https://www.semanticscholar.org/paper/Preference-Parameters-and-Behavioral-Heterogeneity%3A-Barsky-Juster/763545bd2539238abbfad9a46330c546729ee0d3) _Quarterly Journal of Economics_ 112, no. 2 (1997): 537–79.
 
 Boskin, M. "[Taxation, Savings, and the Rate of Interest](http://ideas.repec.org/a/ucp/jpolec/v86y1978i2ps3-27.html)." _Journal of Political Economy_ 86, no. 2 (1978): S3–27.
 
-Gruber, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[A Tax-Based Estimate of the Elasticity of Intertemporal Substitution](http://www.nber.org/papers/w11945.pdf)." NBER Working Paper, no. 11945, January 2006.
+Gruber, J. "[A Tax-Based Estimate of the Elasticity of Intertemporal Substitution](http://www.nber.org/papers/w11945.pdf)." NBER Working Paper, no. 11945, January 2006.
 
-Hall, R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Intertemporal Substitution in Consumption." (PDF - 1.6MB)](http://www.stanford.edu/~rehall/Intertemporal-JPE-April-1988.pdf) _Journal of Political Economy_ 96, no. 2 (1988): 339–57.
+Hall, R. ["Intertemporal Substitution in Consumption." (PDF - 1.6MB)](http://www.stanford.edu/~rehall/Intertemporal-JPE-April-1988.pdf) _Journal of Political Economy_ 96, no. 2 (1988): 339–57.
 
 McGrattan, E. "[Capital Taxation During the Great Depression](http://dx.doi.org/10.1093/qje/qjs022)." _Quarterly Journal of Economics_ 127, no. 3 (2012): 1515–50.
 
@@ -423,43 +325,27 @@ Summers, L. "[Capital Taxation and Accumulation in a Life Cycle Model](http://id
 
 Vissing-Jorgensen, A. "[Limited Asset Market Participation and the Elasticity of Intertemporal Substitution](http://econpapers.repec.org/article/ucpjpolec/v_3a110_3ay_3a2002_3ai_3a4_3ap_3a825-853.htm)." _Journal of Political Economy_ 110 (2002): 825–53.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tax Reform: Income Taxes vs. Consumption Taxes
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Altig, D., A. Auerbach, et al. "[Simulating Fundamental Tax Reform in the United States](http://dx.doi.org/10.1257/aer.91.3.574)." _American Economic Review_ 91, no. 3 (2001): 574–95.
 
-Auerbach, A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Choice Between Income and Consumption Taxes: A Primer." (PDF)](http://www.nber.org/papers/w12307.pdf?new_window=1) In _Institutional Foundations of Public Finance: Economic and Legal Perspectives_. Edited by A. Auerbach, and D. Shaviro. Harvard University Press, 2009. ISBN: 9780674030978. \[Preview with [Google Books](http://books.google.com/books?id=paMWzm5V6SsC&pg=PA13#v=onepage)\]
+Auerbach, A. ["The Choice Between Income and Consumption Taxes: A Primer." (PDF)](http://www.nber.org/papers/w12307.pdf?new_window=1) In _Institutional Foundations of Public Finance: Economic and Legal Perspectives_. Edited by A. Auerbach, and D. Shaviro. Harvard University Press, 2009. ISBN: 9780674030978. \[Preview with [Google Books](http://books.google.com/books?id=paMWzm5V6SsC&pg=PA13#v=onepage)\]
 
 Auerbach, A., and L. Kotlikoff. Chapter 5 _Dynamic Fiscal Policy._ Cambridge University Press, 1987. ISBN: 9780521300414.
 
 McLure, C. _The Value Added Tax: Key to Deficit Reduction_. American Enterprise Institute, 1988. ISBN: 9780844736136.
 
-Poterba, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Lifetime Incidence and the Distributional Burden of Excise Taxes." (PDF - 1.1MB)](http://dspace.mit.edu/bitstream/handle/1721.1/63889/lifetimeincidenc00pote.pdf?sequence=1) _American Economic Review_ 79, no. 2 (1989): 325–30.
+Poterba, J. ["Lifetime Incidence and the Distributional Burden of Excise Taxes." (PDF - 1.1MB)](http://dspace.mit.edu/bitstream/handle/1721.1/63889/lifetimeincidenc00pote.pdf?sequence=1) _American Economic Review_ 79, no. 2 (1989): 325–30.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Targeted Tax Subsidies to Saving
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Agnew, J., P. Balduzzi, et al. "[Portfolio Choice and Trading in a Large 401(k) Plan](http://dx.doi.org/10.1257/000282803321455223)." _American Economic Review_ 93, no. 1 (2003): 193–215.
 
@@ -467,7 +353,7 @@ Benjamin, D. "[Does 401(k) Eligibility Increase Saving? Evidence from Propensity
 
 Bronchetti, E., T. Dee, et al. "[When a Nudge Isn't Enough: Defaults and Saving Among Low-Income Tax Filers](http://www.nber.org/papers/w16887)." NBER Working Paper, no. 16887, 2011.
 
-Carroll, G., J. Choi, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Defaults and Active Decisions: Theory and Evidence from 401(k) Saving." (PDF - 2.8MB)](https://web.stanford.edu/~gdc/odad.pdf) _Quarterly Journal of Economics_ 124 (2009): 1639–74.
+Carroll, G., J. Choi, et al. ["Optimal Defaults and Active Decisions: Theory and Evidence from 401(k) Saving." (PDF - 2.8MB)](https://web.stanford.edu/~gdc/odad.pdf) _Quarterly Journal of Economics_ 124 (2009): 1639–74.
 
 Duflo, E., W. Gale, et al. "[Saving Incentives for Low and Middle-Income Families: Evidence from a Field Experiment with H&R Block](http://connection.ebscohost.com/c/articles/24091799/saving-incentives-low-middle-income-families-evidence-from-field-experiment-h-r-block)." _Quarterly Journal of Economics_ 121, no. 4 (2006): 1311–46.
 
@@ -491,25 +377,13 @@ Poterba, J., S. Venti, et al. "[Do 401(k) Contributions Crowd Out Other Personal
 
 Selin, H. "[Marginal Tax Rates and the Tax-Favoured Pension Savings of the Self-Employed: Evidence from Sweden](http://dx.doi.org/10.1111/j.1467-9442.2011.01668.x)." _Scandinavian Journal of Economics_ 114, no. 1 (2012): 79–100.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Taxation and Firm Behavior**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Taxation of Corporate Capital: Investment Incentives
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Auerbach, A. "[Taxation, Corporate Financial Policy, and the Cost of Capital](http://ideas.repec.org/a/aea/jeclit/v21y1983i3p905-40.html)." _Journal of Economic Literature_ 21, no. 3 (1983): 905–40.
 
@@ -535,7 +409,7 @@ Hassett, K., and R. G. Hubbard. "Tax Policy and Business Investment." In _Handbo
 
 House, C., and M. Shapiro. "[Temporary Investment Tax Incentives: Theory with Evidence from Bonus Depreciation](http://dx.doi.org/10.1257/aer.98.3.737)." _American Economic Review_ 98, no. 3 (2008): 737–68.
 
-Knittel, M. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Corporate Response to Accelerated Tax Depreciation: Bonus Depreciation for Tax Years 2002-2004." (PDF)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-98.pdf) U.S. Treasury Office of Tax Analysis Working Paper 98, May 2007.
+Knittel, M. ["Corporate Response to Accelerated Tax Depreciation: Bonus Depreciation for Tax Years 2002-2004." (PDF)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-98.pdf) U.S. Treasury Office of Tax Analysis Working Paper 98, May 2007.
 
 Lamont, O. "[Cash Flow and Investment: Evidence from Internal Capital Markets](http://dx.doi.org/10.1111/j.1540-6261.1997.tb03809.x)." _Journal of Finance_ 52, no. 1 (1997): 83–109.
 
@@ -545,19 +419,11 @@ Summers, L. "[Taxation and Corporate Investment: A q-Theory Approach](http://dx.
 
 Chen, Y., Z. He, et al. "[The Effect of Investment Tax Incentives: Evidence from China's Value Added Tax Reform](http://dx.doi.org/10.2139/ssrn.1918579)." mimeo, Tsinghua University, 2011.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Taxation and Financial Policy: Debt vs. Equity
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Fama, E., and K. French. "[Financing Decisions: Who Issues Stock?](http://dx.doi.org/10.1016/j.jfineco.2004.10.003)" _Journal of Financial Economics_ 76 (2005): 549–82.
 
@@ -575,19 +441,11 @@ Myers, S. "Financing of Corporations." In _Handbook of the Economics of Finance_
 
 Binsbergen, J. van, J. Graham, et al. "[The Cost of Debt](http://www.nber.org/papers/w16023)." NBER Working Paper, no. 16023, December 2010.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Taxation and Financial Policy: Payout Policy
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Allen, F., and R. Michaely. "Payout Policy." In _Handbook of the Economics of Finance_. Vol 1A. Edited by G. Constantinides, M. Harris, and R. Stulz. North Holland, 2003, pp. 337–429. ISBN: 9780444513625.
 
@@ -601,7 +459,7 @@ Bagwell, L., and J. Shoven. "[Cash Distributions to Shareholders](http://dx.doi.
 
 Baker, M., and S. Nagel, et al. "[The Effect of Dividends on Consumption](http://www.nber.org/papers/w12288)." _Brookings Papers on Economic Activity_, no. 1 (2007).
 
-Bernheim, D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Tax Policy and the Dividend Puzzle." (PDF - 2.5MB)](https://www.msu.edu/~conlinmi/teaching/EC860/signallingscreening/Bbernheim.pdf) _RAND Journal of Economics_ 22, no. 4 (1991): 455–76.
+Bernheim, D. ["Tax Policy and the Dividend Puzzle." (PDF - 2.5MB)](https://www.msu.edu/~conlinmi/teaching/EC860/signallingscreening/Bbernheim.pdf) _RAND Journal of Economics_ 22, no. 4 (1991): 455–76.
 
 Bernheim, D., and A. Wantz. "[A Tax-Based Test of the Dividend Signalling Hypothesis](http://econpapers.repec.org/article/aeaaecrev/v_3a85_3ay_3a1995_3ai_3a3_3ap_3a532-51.htm)." _American Economic Review_ 85, no. 3 (1995): 532–51.
 
@@ -625,31 +483,15 @@ Poterba, J. "[Taxation and Corporate Payout Policy](http://dx.doi.org/10.1257/00
 
 Poterba, J., and L. Summers. "The Economic Effects of Dividend Taxation." In _Recent Advances in Corporation Finance_. Edited by E. Altman, and M. Subrahmanyam. Richard D Irwin, 1985, pp. 227–84. ISBN: 9780256032796.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **PART II**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Optimal Commodity Taxation**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Optimal Commodity Taxes: Ramsey and Beyond
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Asano, S., and T. Fukushima. "[Some Empirical Evidence on Demand System and Optimal Commodity Taxation](http://dx.doi.org/10.1111/j.1468-5876.2006.00306.x)." _Japanese Economic Review_ 57, no. 1 (2006): 50–68.
 
@@ -659,13 +501,13 @@ Auerbach, A., and J. Hines. "[Taxation and Economic Efficiency](http://dx.doi.or
 
 Chari, V. V., and P. Kehoe. "[Optimal Fiscal and Monetary Policy](http://dx.doi.org/10.1016/S1574-0048(99)10039-9)." Section 1 in _Handbook of Macroeconomics_. Edited by J. Taylor, and M. Woodford. North Holland, 1999. ISBN: 9780444501561. \[Preview with [Google Books](http://books.google.com/books?id=4MDzkGl9xocC&printsec=frontcover)\]
 
-Deaton, A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Econometric Issues in Tax Design for Developing Countries." (PDF)](http://www.princeton.edu/~deaton/downloads/Econometric_Issues_for_Tax_Design_in_Developing_Countries.pdf) In _The Theory of Taxation in Developing Countries_. Edited by D. Newbery, and N. Stern. Oxford University Press, 1987, pp. 92–113. ISBN: 9780195205411.
+Deaton, A. ["Econometric Issues in Tax Design for Developing Countries." (PDF)](http://www.princeton.edu/~deaton/downloads/Econometric_Issues_for_Tax_Design_in_Developing_Countries.pdf) In _The Theory of Taxation in Developing Countries_. Edited by D. Newbery, and N. Stern. Oxford University Press, 1987, pp. 92–113. ISBN: 9780195205411.
 
 Deaton, A., and N. Stern. "[Optimally Uniform Commodity Taxes, Taste Differences, and Lump Sum Grants](http://dx.doi.org/10.1016/0165-1765(86)90035-2)." _Economics Letters_ 20, no. 3 (1986): 263–6.
 
 Diamond, P. "[A Many-Person Ramsey Tax Rule](http://dx.doi.org/10.1016/0047-2727(75)90009-2)." _Journal of Public Economics_ 4, no. 4 (1975): 335–42.
 
-Diamond, P., and J. Mirrlees. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Taxation and Public Production I: Production Efficiency" (PDF - 2.9MB)](http://darp.lse.ac.uk/PapersDB/Diamond-Mirrlees_2_%28AER_71%29.pdf), and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Taxation and Public Production II: Tax Rules." (PDF)](http://www.aeaweb.org/aer/top20/61.3.261-278.pdf) _American Economic Review_ 61, no. 1 (1971): 8–27, and 261–78.
+Diamond, P., and J. Mirrlees. ["Optimal Taxation and Public Production I: Production Efficiency" (PDF - 2.9MB)](http://darp.lse.ac.uk/PapersDB/Diamond-Mirrlees_2_%28AER_71%29.pdf), and ["Optimal Taxation and Public Production II: Tax Rules." (PDF)](http://www.aeaweb.org/aer/top20/61.3.261-278.pdf) _American Economic Review_ 61, no. 1 (1971): 8–27, and 261–78.
 
 Dixit, A. "[Welfare Effects of Tax and Price Changes](http://dx.doi.org/10.1016/0047-2727(75)90014-6)." _Journal of Public Economics_ 4, no. 2 (1975): 103–23.
 
@@ -685,23 +527,15 @@ Saez, E. "[The Desirability of Commodity Taxation Under Non-Linear Income Taxati
 
 Slemrod, J. "[Optimal Taxation and Optimal Tax Systems](http://dx.doi.org/10.1257/jep.4.1.157)." _Journal of Economic Perspectives_ 4, no. 1 (1990): 157–78.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Optimal Corrective Taxation
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Barthold, T. "[Issues in the Design of Environmental Excise Taxes](http://dx.doi.org/10.1257/jep.8.1.133)." _Journal of Economic Perspectives_ 8, no. 1 (1994): 133–52.
 
-Bernheim, B., and A. Rangel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Behavioral Public Economics: Welfare and Policy Analysis with Non-Standard Decision Makers." (PDF)](https://www.nber.org/papers/w11518) In _Economic Institutions & Behavioral Economics._ Edited by P. Diamond, and H. Vartiainen. Princeton University Press, 2007, pp. 7–77.
+Bernheim, B., and A. Rangel. ["Behavioral Public Economics: Welfare and Policy Analysis with Non-Standard Decision Makers." (PDF)](https://www.nber.org/papers/w11518) In _Economic Institutions & Behavioral Economics._ Edited by P. Diamond, and H. Vartiainen. Princeton University Press, 2007, pp. 7–77.
 
 Bovenberg, L., and L. Goulder. "Environmental Taxation and Regulation." In _Handbook of Public Economics_. Vol 3. Edited by A. Auerbach, and M. Feldstein. North Holland, 2002, pp. 1474–545. ISBN: 9780444823144.
 
@@ -717,69 +551,53 @@ Nordhaus, W. "[To Tax or Not to Tax? Alterative Approaches to Slowing Global War
 
 ———. "[The "Stern Review" on the Economics of Climate Change](http://www.nber.org/papers/w12741)." _Journal of Economic Literature_ 45 (2007): 686–702.
 
-Parry, I., H. Sigman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Incidence of Pollution Control Policies." (PDF)](https://www.nber.org/papers/w11438) In _The International Yearbook of Environmental and Resource Economics 1999/2000: A Survey of Current Issues_. Edited by T. Tietenberg, and H. Folmer. Edward Elgar Publishing, 2000, pp. 1–42. ISBN: 9781840641318.
+Parry, I., H. Sigman, et al. ["The Incidence of Pollution Control Policies." (PDF)](https://www.nber.org/papers/w11438) In _The International Yearbook of Environmental and Resource Economics 1999/2000: A Survey of Current Issues_. Edited by T. Tietenberg, and H. Folmer. Edward Elgar Publishing, 2000, pp. 1–42. ISBN: 9781840641318.
 
-Rothschild, C., and F. Scheuer. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Taxation with Rent-Seeking." (PDF)](https://www.nber.org/papers/w17035) mimeo, Stanford, 2012.
+Rothschild, C., and F. Scheuer. ["Optimal Taxation with Rent-Seeking." (PDF)](https://www.nber.org/papers/w17035) mimeo, Stanford, 2012.
 
 Sinn, H. -W. "[Public Policies against Global Warming: A Supply Side Approach](http://dx.doi.org/10.1007/s10797-008-9082-z)." _International Tax and Public Finance_ 15, no. 4 (2008): 360–94.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Optimal Dynamic Taxes: Intertemporal Ramsey Problem
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Barro, R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["On the Determination of Public Debt." (PDF - 2.7MB)](http://www.jstor.org/stable/1833077) _Journal of Political Economy_ 87, no. 5 (1979): 940–71
+Barro, R. ["On the Determination of Public Debt." (PDF - 2.7MB)](http://www.jstor.org/stable/1833077) _Journal of Political Economy_ 87, no. 5 (1979): 940–71
 
 Aiyagari, R. A. Marcet, et al. "[Optimal Taxation without State-Contingent Debt](http://ideas.repec.org/a/ucp/jpolec/v110y2002i6p1220-1254.html)." _Journal of Political Economy_ 110, no. 6 (2002): 1220–54.
 
 Christiano, L., V. V. Chari, et al. "[Optimal Fiscal Policy in a Business Cycle Model](http://ideas.repec.org/a/ucp/jpolec/v102y1994i4p617-52.html)." _Journal of Political Economy_ 102, no. 4 (1994): 617–52.
 
-Fahri, E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Capital Taxation and Ownership when Markets are Incomplete." (PDF)](http://www.nber.org/papers/w13390.pdf) mimeo, Harvard, 2006.
+Fahri, E. ["Capital Taxation and Ownership when Markets are Incomplete." (PDF)](http://www.nber.org/papers/w13390.pdf) mimeo, Harvard, 2006.
 
 Lucas, R., and N. Stokey. "[Optimal Fiscal and Monetary Policy in an Economy without Capital](http://dx.doi.org/10.1016/0304-3932(83)90049-1)." _Journal of Monetary Economics_ 12, no. 1 (1983): 55–93.
 
 Werning, I. "[Optimal Fiscal Policy with Redistribution](http://dx.doi.org/10.1162/qjec.122.3.925)." _Quarterly Journal of Economics_ 122, no. 3 (2007): 925–68.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Taxation of Labor Income—Theory
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Akerlof, G. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Economics of Tagging as Applied to the Optimal Income Tax." (PDF - 1.3MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Akerlof.pdf) _American Economic Review_ 68, no. 1 (1978): 8–19.
+Akerlof, G. ["The Economics of Tagging as Applied to the Optimal Income Tax." (PDF - 1.3MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Akerlof.pdf) _American Economic Review_ 68, no. 1 (1978): 8–19.
 
 Allen, F. "[Optimal Linear Income Taxation with General Equilibrium Effects on Wages](http://dx.doi.org/10.1016/0047-2727(82)90016-0)." _Journal of Public Economics_ 17, no. 2 (1982): 135–44.
 
 Besley, T., and S. Coate. "[Workfare versus Welfare: Incentives Arguments for Work Requirements in Poverty-Alleviation Programs](http://ideas.repec.org/a/aea/aecrev/v82y1992i1p249-61.html)." _American Economic Review_ 82, no. 1 (1992): 249–61.
 
-Brewer, M., E. Saez, and A. Shephard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Means Testing and Tax Rates on Earnings." (PDF - 1.1MB)](http://www.econ.berkeley.edu/~saez/brewer-saez-shephardMR10book.pdf) In _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2009. ISBN: 9780199553754.
+Brewer, M., E. Saez, and A. Shephard. ["Means Testing and Tax Rates on Earnings." (PDF - 1.1MB)](http://www.econ.berkeley.edu/~saez/brewer-saez-shephardMR10book.pdf) In _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2009. ISBN: 9780199553754.
 
 Choné, P., and G. Laroque. "[Optimal Incentives for Labor Force Participation](http://dx.doi.org/10.1016/j.jpubeco.2004.04.001)." _Journal of Public Economics_ 89, no. 2–3 (2005): 395–425.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Should Low Skilled Work be Subsidized?" (PDF)](https://econpapers.repec.org/paper/crswpaper/2006-08.htm) INSEE Working Paper, 2006–08.
+———. ["Should Low Skilled Work be Subsidized?" (PDF)](https://econpapers.repec.org/paper/crswpaper/2006-08.htm) INSEE Working Paper, 2006–08.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Taxation in the Extensive Model." (PDF)](http://www.ifs.org.uk/wps/wp0808.pdf) IFS Working Papers W08/08, Institute for Fiscal Studies.
+———. ["Optimal Taxation in the Extensive Model." (PDF)](http://www.ifs.org.uk/wps/wp0808.pdf) IFS Working Papers W08/08, Institute for Fiscal Studies.
 
 Diamond, P. "[Income Taxation with Fixed Hours of Work](http://dx.doi.org/10.1016/0047-2727(80)90024-9)." _Journal of Public Economics_ 13, no. 1 (1980): 101–10.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates." (PDF - 1.8MB)](http://www.uib.es/depart/deaweb/webpersonal/amedeospadaro/workingpapers/bibliosecpub/Diamond.pdf) _American Economic Review_ 88, no. 1 (1998): 83–95.
+———. ["Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates." (PDF - 1.8MB)](http://www.uib.es/depart/deaweb/webpersonal/amedeospadaro/workingpapers/bibliosecpub/Diamond.pdf) _American Economic Review_ 88, no. 1 (1998): 83–95.
 
 Gaube, T. "[Optimal Taxation of Each Year's Income](http://dx.doi.org/10.1111/j.1467-9779.2007.00301.x)." _Journal of Public Economic Theory_ 9, no. 1 (2007): 127–50.
 
@@ -787,7 +605,7 @@ Helpman, E., and E. Sadka. "[The Optimal Income Tax: Some comparative statics re
 
 Immonen, R., R. Kanbur, et al. "[Tagging and Taxing: The Optimal Use of Categorical and Income Information in Designing Tax/Transfer Schemes](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=440021)." _Economica_ 65 (1998): 179–92.
 
-Judd, K., and C. Su. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Income Taxation with Multidimensional Taxpayer Types." (PDF)](https://pdfs.semanticscholar.org/2f0e/acfde06eb1eb65b03108f5c6f17b72b3b59d.pdf) mimeo, University of Chicago, 2006.
+Judd, K., and C. Su. ["Optimal Income Taxation with Multidimensional Taxpayer Types." (PDF)](https://pdfs.semanticscholar.org/2f0e/acfde06eb1eb65b03108f5c6f17b72b3b59d.pdf) mimeo, University of Chicago, 2006.
 
 Maskin, E., and J. Riley. "[Input versus Output Incentive Schemes](http://dx.doi.org/10.1016/0047-2727(85)90018-0)." _Journal of Public Economics_ 28, no. 1 (1985): 1–24.
 
@@ -797,7 +615,7 @@ Mankiw, N., and M. Weinzierl. "[The Optimal Taxation of Height: A Case Study of 
 
 Mirrlees, J. "[An Exploration in the Theory of Optimal Income Taxation](http://dx.doi.org/10.2307/2296779)." _Review of Economic Studies_ 38, no. 2 (1971): 175–208.
 
-Piketty, T., and E. Saez. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Income Inequality in the United States, 1913–1998." (PDF)](http://emlab.berkeley.edu/~saez/pikettyqje.pdf) _Quarterly Journal of Economics_ 118 (2003): 1–39.
+Piketty, T., and E. Saez. ["Income Inequality in the United States, 1913–1998." (PDF)](http://emlab.berkeley.edu/~saez/pikettyqje.pdf) _Quarterly Journal of Economics_ 118 (2003): 1–39.
 
 Saez, E. "[Using Elasticities to Derive Optimal Income Tax Rates](http://dx.doi.org/10.1111/1467-937X.00166)." _Review of Economic Studies_ 68, no. 1 (2001): 205–29.
 
@@ -811,21 +629,13 @@ Stern, N. "[Optimum Taxes with Errors in Administration](http://dx.doi.org/10.10
 
 Stiglitz, J. "[Pareto Efficient and Optimal Taxation and the New New Welfare Economics](http://dx.doi.org/10.1016/S1573-4420(87)80010-1)." In _Handbook of Public Economics_. Vol 2. Edited by A. Auerbach, and M. Feldstein. North-Holland, 1990, pp. 991–1041. ISBN: 9780444879080.
 
-Werning, I. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Pareto Efficient Income Taxation." (PDF)](http://econ-www.mit.edu/files/1281) MIT mimeo.
+Werning, I. ["Pareto Efficient Income Taxation." (PDF)](http://econ-www.mit.edu/files/1281) MIT mimeo.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Taxation of Capital Income and New Dynamic Public Finance
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Abel, A. "[Optimal Taxation When Consumers Have Endogenous Benchmark Levels of Consumption](http://dx.doi.org/10.1111/0034-6527.00322)." _Review of Economic Studies_ 72, no. 1 (2005): 21–42.
 
@@ -837,7 +647,7 @@ Atkinson, A., and A. Sandmo. "[Welfare Implications of the Taxation of Savings](
 
 Atkinson, A., and J. Stiglitz. Chapter 8 in _Lectures on Public Economics_. McGraw Hill College, 1980. ISBN: 9780070841055.
 
-Banks, J., and P. Diamond. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Base for Direct Taxation." (PDF)](http://www.ucl.ac.uk/~uctp39a/Banks%20and%20Diamond.pdf) In _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2009. ISBN: 9780199553754.
+Banks, J., and P. Diamond. ["The Base for Direct Taxation." (PDF)](http://www.ucl.ac.uk/~uctp39a/Banks%20and%20Diamond.pdf) In _Dimensions of Tax Design: The Mirrlees Review_. Edited by Institute for Fiscal Studies. Oxford University Press, 2009. ISBN: 9780199553754.
 
 Bernheim, D. "[Taxation and Saving](http://dx.doi.org/10.1016/S1573-4420(02)80022-2)." Chapter 18 in _Handbook of Public Economics_. Vol 3. Edited by A. Auerbach, and M. Feldstein. North Holland, 2002. ISBN: 9780444823144.
 
@@ -849,7 +659,7 @@ Chamley, C. "[Efficient Tax Reform in a Dynamic Model of General Equilibrium](ht
 
 Conesa, J., S. Kitao, et al. "[Taxing Capital? Not a Bad Idea After All](http://dx.doi.org/10.1257/aer.99.1.25)." _American Economic Review_ 99, no. 1 (2009): 25–48.
 
-Diamond, P., and J. Spinnewijn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Capital Income Taxes with Heterogeneous Discount Rates." (PDF)](http://personal.lse.ac.uk/spinnewi/capital.pdf) NBER Working Paper, no. 15115, 2009.
+Diamond, P., and J. Spinnewijn. ["Capital Income Taxes with Heterogeneous Discount Rates." (PDF)](http://personal.lse.ac.uk/spinnewi/capital.pdf) NBER Working Paper, no. 15115, 2009.
 
 Diamond, P. "[The Incidence of an Interest Income Tax](http://dx.doi.org/10.1016/0022-0531(70)90037-2)." _Journal of Economic Theory_ 2, no. 3 (1970): 211–24.
 
@@ -861,7 +671,7 @@ Golosov, M., N. Kocherlakota, et al. "[Optimal Indirect and Capital Taxation](ht
 
 Golosov, M., and A. Tsyvinski. "[Optimal Taxation with Endogenous Insurance Markets](http://dx.doi.org/10.1162/qjec.122.2.487)." _Quarterly Journal of Economics_ 122 (2007): 487–534.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512008) Golosov, M., A. Tsyvinski, and I. Werning. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["New Dynamic Public Finance: A User's Guide." (PDF)](http://www.nber.org/chapters/c11181.pdf) In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_NBER Macroeconomics Annual 2006_](https://mitpress.mit.edu/9780262512008). Edited by D. Acemoglu, K. Rogoff, and M. Woodford. MIT Press, 2007, pp. 317–63. ISBN: 9780262512008.
+![Buy at MIT Press](/images/mp_logo.gif) Golosov, M., A. Tsyvinski, and I. Werning. ["New Dynamic Public Finance: A User's Guide." (PDF)](http://www.nber.org/chapters/c11181.pdf) In [_NBER Macroeconomics Annual 2006_](https://mitpress.mit.edu/9780262512008). Edited by D. Acemoglu, K. Rogoff, and M. Woodford. MIT Press, 2007, pp. 317–63. ISBN: 9780262512008.
 
 Feldstein, M. "[The Welfare Cost of Capital Income Taxation](http://ideas.repec.org/a/ucp/jpolec/v86y1978i2ps29-51.html)." _Journal of Political Economy_ 86, no. 2 (1978): S29–52.
 
@@ -875,7 +685,7 @@ Judd, K. "Optimal Taxation in Dynamic Stochastic Economies: Theory and Evidence.
 
 Kocherlakota, N. "[Zero Expected Wealth Taxes: A Mirrlees Approach to Dynamic Optimal Taxation](http://dx.doi.org/10.1111/j.1468-0262.2005.00630.x)." _Econometrica_ 73, no. 5 (2005): 1587–622.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Advances in Dynamic Optimal Taxation." (PDF)](http://www.sfu.ca/~kkasa/kocher_ES05.pdf) In _Advances in Economics and Econometrics: Theory and Applications, Ninth World Congress_. Edited by R. Blundell, W. Newey, and T. Persson. Cambridge University Press, 2006, pp. 269–97. ISBN: 9780521692083.
+———. ["Advances in Dynamic Optimal Taxation." (PDF)](http://www.sfu.ca/~kkasa/kocher_ES05.pdf) In _Advances in Economics and Econometrics: Theory and Applications, Ninth World Congress_. Edited by R. Blundell, W. Newey, and T. Persson. Cambridge University Press, 2006, pp. 269–97. ISBN: 9780521692083.
 
 ———. _The New Dynamic Public Finance_. Princeton University Press, 2010. ISBN: 9780691139159. \[Preview with [Google Books](http://books.google.com/books?id=tJwHnBJX3CcC&printsec=frontcover)\]
 
@@ -885,41 +695,25 @@ Saez, E. "[Optimal Progressive Capital Income Taxation in the Infinite Horizon M
 
 Stokey, N., and S. Rebelo. "[Growth Effects of Flat-Rate Taxes](http://ideas.repec.org/a/ucp/jpolec/v103y1995i3p519-50.html)." _Journal of Political Economy_ 103, no. 3 (1995): 519–50.
 
-Werning, I. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Nonlinear Capital Taxation." (PDF)](https://cowles.yale.edu/sites/default/files/files/conf/2010/sum_werning.pdf) working paper, MIT, September 2011.
+Werning, I. ["Nonlinear Capital Taxation." (PDF)](https://cowles.yale.edu/sites/default/files/files/conf/2010/sum_werning.pdf) working paper, MIT, September 2011.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Dynamic Taxation of Labor Income and Insurance
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Albanesi, S., and C. Sleet. "[Dynamic Optimal Taxation with Private Information](http://dx.doi.org/10.1111/j.1467-937X.2006.00367.x)." _Review of Economic Studies_ 73, no. 1 (2006): 1–30.
 
 Erosa, A., and M. Gervais. "[Optimal Taxation in Life-Cycle Economies](http://dx.doi.org/10.1006/jeth.2001.2877)." _Journal of Economic Theory_ 105, no. 2 (2002): 338–69.
 
-Farhi, E., and I. Werning. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Insurance and Taxation over the Life Cycle." (PDF)](http://scholar.harvard.edu/files/farhi/files/insurance_and_taxation_over_the_life_cycle_restud.pdf) _forthcoming Review of Economic Studies_ (2012).
+Farhi, E., and I. Werning. ["Insurance and Taxation over the Life Cycle." (PDF)](http://scholar.harvard.edu/files/farhi/files/insurance_and_taxation_over_the_life_cycle_restud.pdf) _forthcoming Review of Economic Studies_ (2012).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Taxation of Intergenerational Transfers (Estate Taxation)
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Aaron, H., and A. Munnell. "[Reassessing the Role for Wealth Transfer Taxes](http://connection.ebscohost.com/c/articles/9610174050/reassessing-role-wealth-transfer-taxes)." _National Tax Journal_ 45, no. 2 (1992): 119–44.
 
@@ -927,19 +721,14 @@ Bernheim, B., R. Lemke, et al. "[Do Estate and Gift Taxes Affect the Timing of P
 
 Farhi, E., and I. Werning. "[Progressive Estate Taxation](http://dx.doi.org/10.1162/qjec.2010.125.2.635)." _Quarterly Journal of Economics_ 125, no. 2 (2009): 635-73.
 
-Gale, W., and J. Slemrod. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Overview." (PDF)](http://www.nber.org/papers/w8205.pdf?new_window=1) In _Rethinking Estate and Gift Taxation: Overview_. Edited by W. Gale, J. Hines, and J. Slemrod. Brookings Institution, 2001, pp. 1–64.
+Gale, W., and J. Slemrod. ["Overview." (PDF)](http://www.nber.org/papers/w8205.pdf?new_window=1) In _Rethinking Estate and Gift Taxation: Overview_. Edited by W. Gale, J. Hines, and J. Slemrod. Brookings Institution, 2001, pp. 1–64.
 
-Kopczuk, W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Economics of estate taxation: a brief review of theory and evidence." (PDF)](http://www.nber.org/papers/w15741.pdf?new_window=1) NBER Working Paper, no. 15741.
+Kopczuk, W. ["Economics of estate taxation: a brief review of theory and evidence." (PDF)](http://www.nber.org/papers/w15741.pdf?new_window=1) NBER Working Paper, no. 15741.
 
-Piketty, T., and E. Saez. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Theory of Optimal Capital Taxation." (PDF)](http://elsa.berkeley.edu/~saez/piketty-saezNBER12optKtax.pdf) NBER Working Paper, no. 17989, April 2012.
+Piketty, T., and E. Saez. ["A Theory of Optimal Capital Taxation." (PDF)](http://elsa.berkeley.edu/~saez/piketty-saezNBER12optKtax.pdf) NBER Working Paper, no. 17989, April 2012.
 
 ———. "[The Evolution of Top Incomes: A Historical and International Perspective](http://dx.doi.org/10.1257/000282806777212116)." _American Economic Review, Papers and Proceedings_ 96, no. 2 (2006): 200–5. (NBER Working Paper No. 11955 version)
 
 Poterba, J. "[The Estate and Gift Tax and Inter Vivos Giving in the United States](http://dx.doi.org/10.1016/S0047-2727(00)00102-X)." _Journal of Public Economics_ 79, no. 1 (2001): 237–64.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
