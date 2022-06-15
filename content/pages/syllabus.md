@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  requirements and grading, public finance field requirements, and the public finance
+  seminar and luncheon.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 0aafd4cb-7d5e-6107-dfa1-c161e16af3d0
 ---

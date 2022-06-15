@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section contains materials used during course recitations.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
-parent_uid: null
 title: Recitations
 uid: 8206e495-d3a8-1289-7844-ff27c7536468
 ---
@@ -34,7 +34,7 @@ Files
 Exact consumer surplus
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link ef094c3b-690e-4da7-ca2a-590f0ee45f64 "Recitation 1 notes (PDF)" >}}
+{{% resource_link ef094c3b-690e-4da7-ca2a-590f0ee45f64 "Recitation 1 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ Exact consumer surplus
 Impact of factor tax 1 sector/2 factors GE model
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link b3adaf3a-7450-bba6-b340-fe33a7f85705 "Recitation 2 notes (PDF)" >}}
+{{% resource_link b3adaf3a-7450-bba6-b340-fe33a7f85705 "Recitation 2 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ Impact of factor tax 1 sector/2 factors GE model
 Labor supply
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 05260e40-b3f9-03e7-4e35-c46b4dfcf5d4 "Recitation 3 notes (PDF)" >}}
+{{% resource_link 05260e40-b3f9-03e7-4e35-c46b4dfcf5d4 "Recitation 3 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +70,7 @@ Labor supply
 Government intervention in the housing market: Who wins, who loses?
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 7f96d3c7-de05-c966-6e3b-1b150d591ecb "Recitation 4 notes (PDF)" >}}
+{{% resource_link 7f96d3c7-de05-c966-6e3b-1b150d591ecb "Recitation 4 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +82,7 @@ Government intervention in the housing market: Who wins, who loses?
 Consumption externalities and imperfect competitive pricing
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 672eb394-445f-11a9-2315-c77b6341275e "Recitation 5 notes (PDF)" >}}
+{{% resource_link 672eb394-445f-11a9-2315-c77b6341275e "Recitation 5 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ Consumption externalities and imperfect competitive pricing
 Optimal taxation and public production I: Production efficiency
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 29a806c4-ea86-be88-5853-fdb9f23fc3b4 "Recitation 6 notes (PDF)" >}}
+{{% resource_link 29a806c4-ea86-be88-5853-fdb9f23fc3b4 "Recitation 6 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +106,7 @@ Optimal taxation and public production I: Production efficiency
 Application of linear taxation to intertemporal taxation
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d12454be-0897-420e-66ba-6b9749a2bf55 "Recitation 7 notes (PDF)" >}}
+{{% resource_link d12454be-0897-420e-66ba-6b9749a2bf55 "Recitation 7 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +120,7 @@ Introduction to MATLAB®
 {{< tdopen >}}
 
 
-{{< resource_link f23a8863-e327-7de0-2574-3aba23ee70af "Recitation #8 ODE (M)" >}}
+{{% resource_link f23a8863-e327-7de0-2574-3aba23ee70af "Recitation #8 ODE (M)" %}}
 
 
 {{< tdclose >}}
@@ -136,9 +136,9 @@ Pareto efficient income taxation
 {{< tdopen >}}
 
 
-{{< resource_link 5bc75ba9-dafa-1cf2-2f06-793d97e306c1 "Recitation 9 notes (PDF)" >}}
+{{% resource_link 5bc75ba9-dafa-1cf2-2f06-793d97e306c1 "Recitation 9 notes (PDF)" %}}
 
-Prof. Iván Werning's presentation {{< resource_link ae6580d9-42fe-24d0-a332-ea2903e00e6c "\"Pareto Efficient Income Taxation.\"  (PDF)" >}} NBER Public Economics Meeting, April 2007.
+Prof. Iván Werning's presentation {{% resource_link ae6580d9-42fe-24d0-a332-ea2903e00e6c "\"Pareto Efficient Income Taxation.\"  (PDF)" %}} NBER Public Economics Meeting, April 2007.
 
 
 {{< tdclose >}}
@@ -152,7 +152,7 @@ Prof. Iván Werning's presentation {{< resource_link ae6580d9-42fe-24d0-a332-ea2
 Income taxation with fixed hour of work
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 59a0df66-a627-a90b-c10d-279b639962f6 "Recitation 10 notes (PDF)" >}}
+{{% resource_link 59a0df66-a627-a90b-c10d-279b639962f6 "Recitation 10 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +164,7 @@ Income taxation with fixed hour of work
 Dynamic insurance
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 83c59827-0abb-8813-7b1c-bb7999ef778c "Recitation 11 notes (PDF)" >}}
+{{% resource_link 83c59827-0abb-8813-7b1c-bb7999ef778c "Recitation 11 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +176,7 @@ Dynamic insurance
 Elasticity of intertemporal substitution (EIS)
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link dd352e1f-c767-3f00-bfac-bc9b7657166d "Recitation 12 notes (PDF)" >}}
+{{% resource_link dd352e1f-c767-3f00-bfac-bc9b7657166d "Recitation 12 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +188,7 @@ Elasticity of intertemporal substitution (EIS)
 Overview tax results
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8424e343-baac-f31b-0138-421ef9529da9 "Recitation 13 notes (PDF)" >}}
+{{% resource_link 8424e343-baac-f31b-0138-421ef9529da9 "Recitation 13 notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
