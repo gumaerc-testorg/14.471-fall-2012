@@ -5,6 +5,7 @@ file: /courses/14-471-public-economics-i-fall-2012/322183b94092d7e8950af34548a46
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Tax expenditures notes
 uid: 322183b9-4092-d7e8-950a-f34548a46066
 ---
 This resource contains information regarding tax expenditures notes.
-

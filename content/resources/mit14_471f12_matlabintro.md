@@ -6,6 +6,7 @@ file: /courses/14-471-public-economics-i-fall-2012/6868e4661e8c2d6b8d8d202fc97ff
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Brief Introduction to Econometrics Simulations
 uid: 6868e466-1e8c-2d6b-8d8d-202fc97fffb4
 ---
 This resource contains information regarding a brief introduction to econometrics simulations.
-

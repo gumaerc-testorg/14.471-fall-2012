@@ -5,6 +5,7 @@ file: /courses/14-471-public-economics-i-fall-2012/fe13075b6aea2493071ff4f8872d2
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2_q3_bunchingcode.do
 uid: fe13075b-6aea-2493-071f-f4f8872d24a1
 ---
 This is a special resource for problem set 2.
-

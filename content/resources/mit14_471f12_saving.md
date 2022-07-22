@@ -5,6 +5,7 @@ file: /courses/14-471-public-economics-i-fall-2012/5437f7126ff24a1c4874174e427bf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Taxation of saving notes
 uid: 5437f712-6ff2-4a1c-4874-174e427bf411
 ---
 This resource contains information regarding taxation of saving notes.
-

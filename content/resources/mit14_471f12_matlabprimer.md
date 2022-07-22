@@ -5,6 +5,7 @@ file: /courses/14-471-public-economics-i-fall-2012/b0d004067c2ad34a6cf1ad3ca0185
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MATLAB primer
 uid: b0d00406-7c2a-d34a-6cf1-ad3ca01852b1
 ---
 This resource contains information regarding MATLAB primer.
-

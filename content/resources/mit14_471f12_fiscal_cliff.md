@@ -6,6 +6,7 @@ file: /courses/14-471-public-economics-i-fall-2012/9d189cf7d44042b557acfa2d3a7d7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'The fiscal cliff and the long-term budget challenge: Prologue for 14.471
 uid: 9d189cf7-d440-42b5-57ac-fa2d3a7d75fa
 ---
 This resource contains information regarding the fiscal cliff and the long-term budget challenge: Prologue for 14.471 notes.
-
