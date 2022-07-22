@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides lectures notes for selected course topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 00c88a64-4348-e79e-4e97-96ce5f933e3e
 ---
@@ -32,9 +36,9 @@ The efficiency costs of taxation
 {{< tdopen >}}
 
 
-[The fiscal cliff: Prologue for 14.471 (PDF)]({{< baseurl >}}/resources/mit14_471f12_fiscal_cliff)
+{{% resource_link 9d189cf7-d440-42b5-57ac-fa2d3a7d75fa "The fiscal cliff: Prologue for 14.471 (PDF)" %}}
 
-[Tax analysis (PDF)]({{< baseurl >}}/resources/mit14_471f12_tax_analysis)
+{{% resource_link d3513f9d-ccf9-bc56-96d1-62cdd418fa9c "Tax analysis (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -50,9 +54,9 @@ General equilibrium tax incidence
 {{< tdopen >}}
 
 
-[Tax incidence in multi-sector models (PDF)]({{< baseurl >}}/resources/mit14_471f12_sector_models)
+{{% resource_link e7a066f2-5c9c-1192-5668-0260c4b7d163 "Tax incidence in multi-sector models (PDF)" %}}
 
-[Asset price approach to incidence (PDF)]({{< baseurl >}}/resources/mit14_471f12_asset_price)
+{{% resource_link f26a1923-b553-827e-7ff7-7063e64bed06 "Asset price approach to incidence (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -66,7 +70,7 @@ General equilibrium tax incidence
 Married men
 {{< tdclose >}}
 {{< tdopen >}}
-[Empirical analysis of taxation and labor supply (PDF)]({{< baseurl >}}/resources/mit14_471f12_labor_supply)
+{{% resource_link 7ea57158-2143-e856-e83c-3d724ed58b4c "Empirical analysis of taxation and labor supply (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +106,7 @@ No lecture notes available.
 Tax rules and taxable income
 {{< tdclose >}}
 {{< tdopen >}}
-[The elasticity of taxable income (PDF)]({{< baseurl >}}/resources/mit14_471f12_elasticity)
+{{% resource_link 25c9f1b8-5421-206a-6cd1-7444bbc301cd "The elasticity of taxable income (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +118,7 @@ Tax rules and taxable income
 Tax expenditures
 {{< tdclose >}}
 {{< tdopen >}}
-[Tax expenditures (PDF)]({{< baseurl >}}/resources/mit14_471f12_tax_expend)
+{{% resource_link 322183b9-4092-d7e8-950a-f34548a46066 "Tax expenditures (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +166,7 @@ No lecture notes available.
 Targeted tax subsidies to saving
 {{< tdclose >}}
 {{< tdopen >}}
-[Taxation of savings: empirical evidence (PDF - 1.2 MB)]({{< baseurl >}}/resources/mit14_471f12_saving)
+{{% resource_link 5437f712-6ff2-4a1c-4874-174e427bf411 "Taxation of savings: empirical evidence (PDF - 1.2 MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +178,7 @@ Targeted tax subsidies to saving
 Taxation of corporate capital
 {{< tdclose >}}
 {{< tdopen >}}
-[Taxation, investment, and finance (PDF)]({{< baseurl >}}/resources/mit14_471f12_investment)
+{{% resource_link 44e8b534-4db2-aee3-2b32-ebb02c7d6d16 "Taxation, investment, and finance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +214,7 @@ No lecture notes available.
 Optimal commodity taxes: Ramsey and beyond
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear taxation (PDF)]({{< baseurl >}}/resources/mit14_471f12_linear_tax)
+{{% resource_link dc77cfbe-25c2-440f-31df-5948fb6f103c "Linear taxation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +226,7 @@ Optimal commodity taxes: Ramsey and beyond
 Optimal Corrective Taxation
 {{< tdclose >}}
 {{< tdopen >}}
-[Corrective taxation (PDF)]({{< baseurl >}}/resources/mit14_471f12_corrective_tax)
+{{% resource_link 5928e0f2-53b0-7448-3ed9-a6cfc81d8684 "Corrective taxation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +238,7 @@ Optimal Corrective Taxation
 Optimal dynamic taxes
 {{< tdclose >}}
 {{< tdopen >}}
-[Tax implementation (PDF)]({{< baseurl >}}/resources/mit14_471f12_implementn)
+{{% resource_link 73713c39-c363-1cc9-315f-20f14a507bc2 "Tax implementation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +250,7 @@ Optimal dynamic taxes
 Taxation of labor income
 {{< tdclose >}}
 {{< tdopen >}}
-[Nonlinear taxation (PDF)]({{< baseurl >}}/resources/mit14_471f12_nonlinear)
+{{% resource_link 3fce7025-222a-84e8-f33f-d8f41ff0ab76 "Nonlinear taxation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +262,7 @@ Taxation of labor income
 Taxation of capital income
 {{< tdclose >}}
 {{< tdopen >}}
-[Inverse Euler equation and savings distortion (PDF)]({{< baseurl >}}/resources/mit14_471f12_euler)
+{{% resource_link 2673185d-a71c-8e4b-5123-d41730645b8f "Inverse Euler equation and savings distortion (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +274,7 @@ Taxation of capital income
 Dynamic taxation of labor income and insurance
 {{< tdclose >}}
 {{< tdopen >}}
-[Dynamic insurance (PDF)]({{< baseurl >}}/resources/mit14_471f12_dynamicinsrce)
+{{% resource_link b3239c95-9f20-c810-7ddb-840eadab6195 "Dynamic insurance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
