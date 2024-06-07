@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special resource for problem set 4.
 file: /courses/14-471-public-economics-i-fall-2012/3f77b90353be2fceb8282a7484a01d91_ps4_code1.m
+file_size: 1550
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments

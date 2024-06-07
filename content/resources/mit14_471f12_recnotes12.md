@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding elasticity of intertemporal
   substitution (EIS).
 file: /courses/14-471-public-economics-i-fall-2012/dd352e1fc7673f00bfacbc9b7657166d_MIT14_471F12_recnotes12.pdf
+file_size: 371111
 file_type: application/pdf
 learning_resource_types:
 - Recitations

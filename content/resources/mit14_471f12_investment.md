@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding taxation, investment, and
   finance notes.
 file: /courses/14-471-public-economics-i-fall-2012/44e8b5344db2aee32b32ebb02c7d6d16_MIT14_471F12_Investment.pdf
+file_size: 701290
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

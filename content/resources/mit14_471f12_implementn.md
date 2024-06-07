@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding tax implementation notes.
 file: /courses/14-471-public-economics-i-fall-2012/73713c39c3631cc9315f20f14a507bc2_MIT14_471F12_implementn.pdf
+file_size: 125126
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
