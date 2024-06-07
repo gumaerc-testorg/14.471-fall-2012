@@ -409,7 +409,7 @@ Hassett, K., and R. G. Hubbard. "Tax Policy and Business Investment." In *Handbo
 
 House, C., and M. Shapiro. "[Temporary Investment Tax Incentives: Theory with Evidence from Bonus Depreciation](http://dx.doi.org/10.1257/aer.98.3.737)." *American Economic Review* 98, no. 3 (2008): 737–68.
 
-Knittel, M. ["Corporate Response to Accelerated Tax Depreciation: Bonus Depreciation for Tax Years 2002-2004." (PDF)](https://www.treasury.gov/resource-center/tax-policy/tax-analysis/Documents/WP-98.pdf) U.S. Treasury Office of Tax Analysis Working Paper 98, May 2007.
+Knittel, M. ["Corporate Response to Accelerated Tax Depreciation: Bonus Depreciation for Tax Years 2002-2004." (PDF)](https://home.treasury.gov/system/files/131/WP-98.pdf) U.S. Treasury Office of Tax Analysis Working Paper 98, May 2007.
 
 Lamont, O. "[Cash Flow and Investment: Evidence from Internal Capital Markets](http://dx.doi.org/10.1111/j.1540-6261.1997.tb03809.x)." *Journal of Finance* 52, no. 1 (1997): 83–109.
 
