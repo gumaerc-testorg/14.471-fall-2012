@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set solutions 2.
-file: /courses/14-471-public-economics-i-fall-2012/f5a3a027a3cdfb953a2ab7a4529ef2b2_MIT14_471F12_pset2_sol.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/f5a3a027a3cdfb953a2ab7a4529ef2b2_MIT14_471F12_pset2_sol.pdf
 file_size: 335828
 file_type: application/pdf
 learning_resource_types:
