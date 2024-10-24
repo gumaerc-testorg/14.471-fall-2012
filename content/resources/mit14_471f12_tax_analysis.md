@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding tax analysis notes.
-file: /courses/14-471-public-economics-i-fall-2012/d3513f9dccf9bc5696d162cdd418fa9c_MIT14_471F12_Tax_Analysis.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/d3513f9dccf9bc5696d162cdd418fa9c_MIT14_471F12_Tax_Analysis.pdf
 file_size: 333909
 file_type: application/pdf
 learning_resource_types:

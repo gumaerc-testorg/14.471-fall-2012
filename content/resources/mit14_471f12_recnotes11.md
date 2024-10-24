@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding dynamic insurance.
-file: /courses/14-471-public-economics-i-fall-2012/83c598270abb88137b1cbb7999ef778c_MIT14_471F12_recnotes11.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/83c598270abb88137b1cbb7999ef778c_MIT14_471F12_recnotes11.pdf
 file_size: 248737
 file_type: application/pdf
 learning_resource_types:

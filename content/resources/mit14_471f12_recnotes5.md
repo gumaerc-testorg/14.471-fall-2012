@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding consumption externalities
   and imperfect competitive pricing.
-file: /courses/14-471-public-economics-i-fall-2012/672eb394445f11a92315c77b6341275e_MIT14_471F12_recnotes5.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/672eb394445f11a92315c77b6341275e_MIT14_471F12_recnotes5.pdf
 file_size: 282259
 file_type: application/pdf
 learning_resource_types:

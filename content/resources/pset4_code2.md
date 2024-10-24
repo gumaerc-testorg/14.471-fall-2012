@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special resource for problem set 4.
-file: /courses/14-471-public-economics-i-fall-2012/a248ab2793126dfbe8476265d5dba02f_pset4_code2.m
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/a248ab2793126dfbe8476265d5dba02f_pset4_code2.m
 file_size: 60
 file_type: text/x-objcsrc
 learning_resource_types:
