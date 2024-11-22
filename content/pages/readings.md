@@ -51,7 +51,7 @@ Chetty, R., A. Looney, et al. "[Salience and Taxation: Theory and Evidence](http
 
 Congdon, W., J. Kling, and S. Mullainathan. *Policy and Choice: Public Finance through the Lens of Behavioral Economics*. Brookings Institution Press, 2011. ISBN: 9780815722588.
 
-Diamond, P., and D. McFadden. "[Some Uses of the Expenditure Function in Public Finance](http://dx.doi.org/10.1016/0047-2727(74)90020-6)." *Journal of Public Economics* 5, no. 3–4 (1976): 373–79.
+Diamond, P., and D. McFadden. "[Some Uses of the Expenditure Function in Public Finance](http://dx.doi.org/10.1016/0047-2727%2874%2990020-6)." *Journal of Public Economics* 5, no. 3–4 (1976): 373–79.
 
 Einav, L., D. Knoepfle, et al. "[Sales Taxes and Internet Commerce](http://www.nber.org/papers/w18018)." NBER Working Paper, no. 18018, April 2012.
 
@@ -85,11 +85,11 @@ Atkinson, A., and J. Stiglitz. Chapter 6 in *Lectures on Public Economics*. McGr
 
 Ballard, C., D. Fullerton, et al. Chapters 2, and 3 in [*A General Equilibrium Model for Tax Policy Evaluation*](http://www.nber.org/books/ball85-1). University of Chicago Press, 1985. ISBN: 9780226036328.
 
-Bradford, D. "[Factor Prices May be Constant but Factor Returns are Not](http://dx.doi.org/10.1016/0165-1765(78)90024-1)." *Economic Letters* 1, no. 3 (1978): 199–203.
+Bradford, D. "[Factor Prices May be Constant but Factor Returns are Not](http://dx.doi.org/10.1016/0165-1765%2878%2990024-1)." *Economic Letters* 1, no. 3 (1978): 199–203.
 
 Cutler, D. ["Tax Reform and the Stock Market: An Asset Price Approach." (PDF - 1.6MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Cutler.pdf) *American Economic Review* 78, no. 5 (1988): 1107–17.
 
-Fullerton, D., and G. Metcalf. "[Tax Incidence](http://dx.doi.org/10.1016/S1573-4420(02)80005-2)." In *Handbook of Public Economics*. Vol 4. Edited by A. Auerbach, and M. Feldstein. North Holland, 2002. ISBN: 9780444823151.
+Fullerton, D., and G. Metcalf. "[Tax Incidence](http://dx.doi.org/10.1016/S1573-4420%2802%2980005-2)." In *Handbook of Public Economics*. Vol 4. Edited by A. Auerbach, and M. Feldstein. North Holland, 2002. ISBN: 9780444823151.
 
 Gravelle, J., and K. Smetters. "[Does the Open Economy Assumption Really Mean That Labor Bears the Burden of a Capital Income Tax?](http://dx.doi.org/10.2202/1538-0637.1548)" *Advances in Economic Analysis & Policy* 6, no. 1 (2006).
 
@@ -109,11 +109,11 @@ Married Men
 
 ![Buy at MIT Press](/images/mp_logo.gif) Alesina, A., E. Glaeser, and B. Sacerdote. "Work and Leisure in the U.S. and Europe: Why So Different?" In [*NBER Macroeconomics Annual 2005*](https://mitpress.mit.edu/9780262072724). Edited by D. Acemoglu, and K. Rogoff. MIT Press, 2006, pp. 1–64. ISBN: 9780262072724.
 
-Blomquist, S. "[Restrictions in Labor Supply Estimation: Is the MaCurdy Critique Correct?](http://dx.doi.org/10.1016/0165-1765(94)00593-Q)" *Economics Letters* 47, no. 3–4 (1995): 229–35.
+Blomquist, S. "[Restrictions in Labor Supply Estimation: Is the MaCurdy Critique Correct?](http://dx.doi.org/10.1016/0165-1765%2894%2900593-Q)" *Economics Letters* 47, no. 3–4 (1995): 229–35.
 
-———. "[Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes](http://dx.doi.org/10.1016/0304-4076(94)01678-X)." *Journal of Econometrics* 70, no. 2 (1996): 383–405.
+———. "[Estimation Methods for Male Labor Supply Functions: How to Take Account of Nonlinear Taxes](http://dx.doi.org/10.1016/0304-4076%2894%2901678-X)." *Journal of Econometrics* 70, no. 2 (1996): 383–405.
 
-Blomquist, S., M. Eklof, et al. "[Tax Reform Evaluation Using Nonparametric Methods: Sweden 1980-1991](http://dx.doi.org/10.1016/S0047-2727(00)00082-7)." *Journal of Public Economics* 79, no. 3 (2001): 543-68.
+Blomquist, S., M. Eklof, et al. "[Tax Reform Evaluation Using Nonparametric Methods: Sweden 1980-1991](http://dx.doi.org/10.1016/S0047-2727%2800%2900082-7)." *Journal of Public Economics* 79, no. 3 (2001): 543-68.
 
 Blundell, R., A. Duncan, et al. "[Estimating Labor Supply Responses Using Tax Reforms](http://ideas.repec.org/a/ecm/emetrp/v66y1998i4p827-862.html)." *Econometrica* 66, no. 4 (1998): 827–62.
 
@@ -169,7 +169,7 @@ Rogerson, R., and J. Wallenius. ["Micro and Macro Elasticities in a Life Cycle M
 
 Saez, E. "[Do Tax Filers Bunch at Kink Points?](http://dx.doi.org/10.1257/pol.2.3.180)" *American Economic Journal: Economic Policy* 2, no. 3 (2010): 180–212.
 
-Showalter, M., and N. Thurston. "[Taxes and Labor Supply of High-Income Physicians](http://dx.doi.org/10.1016/S0047-2727(97)00021-2)." *Journal of Public Economics* 66, no. 1 (1997): 73–97.
+Showalter, M., and N. Thurston. "[Taxes and Labor Supply of High-Income Physicians](http://dx.doi.org/10.1016/S0047-2727%2897%2900021-2)." *Journal of Public Economics* 66, no. 1 (1997): 73–97.
 
 Ziliak, J., and T. Kniesner. "[Estimating Life Cycle Labor Supply Tax Effects](https://www.jstor.org/stable/10.1086/250062)." *Journal of Political Economy* 107, no. 2 (1999): 326–59.
 
@@ -349,7 +349,7 @@ Targeted Tax Subsidies to Saving
 
 Agnew, J., P. Balduzzi, et al. "[Portfolio Choice and Trading in a Large 401(k) Plan](http://dx.doi.org/10.1257/000282803321455223)." *American Economic Review* 93, no. 1 (2003): 193–215.
 
-Benjamin, D. "[Does 401(k) Eligibility Increase Saving? Evidence from Propensity Score Subclassification](http://dx.doi.org/10.1016/S0047-2727(01)00167-0)." *Journal of Public Economics* 87, no. 5–6 (2003): 1259–90.
+Benjamin, D. "[Does 401(k) Eligibility Increase Saving? Evidence from Propensity Score Subclassification](http://dx.doi.org/10.1016/S0047-2727%2801%2900167-0)." *Journal of Public Economics* 87, no. 5–6 (2003): 1259–90.
 
 Bronchetti, E., T. Dee, et al. "[When a Nudge Isn't Enough: Defaults and Saving Among Low-Income Tax Filers](http://www.nber.org/papers/w16887)." NBER Working Paper, no. 16887, 2011.
 
@@ -357,7 +357,7 @@ Carroll, G., J. Choi, et al. ["Optimal Defaults and Active Decisions: Theory and
 
 Duflo, E., W. Gale, et al. "[Saving Incentives for Low and Middle-Income Families: Evidence from a Field Experiment with H&R Block](http://connection.ebscohost.com/c/articles/24091799/saving-incentives-low-middle-income-families-evidence-from-field-experiment-h-r-block)." *Quarterly Journal of Economics* 121, no. 4 (2006): 1311–46.
 
-Duflo, E., and E. Saez. "[Participation and Investment Decisions in a Retirement Plan: The Influence of Colleagues' Choices](http://dx.doi.org/10.1016/S0047-2727(01)00098-6)." *Journal of Public Economics* 85, no. 1 (2002): 121–48.
+Duflo, E., and E. Saez. "[Participation and Investment Decisions in a Retirement Plan: The Influence of Colleagues' Choices](http://dx.doi.org/10.1016/S0047-2727%2801%2900098-6)." *Journal of Public Economics* 85, no. 1 (2002): 121–48.
 
 Engelhardt, G., and A. Kumar. "[Employer Matching and 401(k) Saving: Evidence from the Health and Retirement Study](http://dx.doi.org/10.1016/j.jpubeco.2007.02.009)" *Journal of Public Economics* 91, no. 10 (2007): 1920–43.
 
@@ -369,9 +369,9 @@ Heim, B., and I. Lurie. "[The Effect of Recent Tax Changes on Tax-Preferred Savi
 
 Madrian, B., and D. Shea. "[The Power of Suggestion: Inertia in 401(k) Participation and Saving Behavior](http://dx.doi.org/10.1162/003355301753265543)." *Quarterly Journal of Economics* 116, no. 4 (2001): 1149–87.
 
-Milligan, K. "[How Do Contribution Limits Affect Contributions to Tax-Preferred Saving Accounts?](http://dx.doi.org/10.1016/S0047-2727(01)00136-0)" *Journal of Public Economics* 87, no. 2 (2003): 253–82.
+Milligan, K. "[How Do Contribution Limits Affect Contributions to Tax-Preferred Saving Accounts?](http://dx.doi.org/10.1016/S0047-2727%2801%2900136-0)" *Journal of Public Economics* 87, no. 2 (2003): 253–82.
 
-Poterba, J., S. Venti, et al. "[Do 401(k) Contributions Crowd Out Other Personal Saving?](http://dx.doi.org/10.1016/0047-2727(94)01462-W)" *Journal of Public Economics* 58, no. 1 (1995): 1–32.
+Poterba, J., S. Venti, et al. "[Do 401(k) Contributions Crowd Out Other Personal Saving?](http://dx.doi.org/10.1016/0047-2727%2894%2901462-W)" *Journal of Public Economics* 58, no. 1 (1995): 1–32.
 
 ———. "[How Retirement Saving Programs Increase Saving](http://dx.doi.org/10.1257/jep.10.4.91)." *Journal of Economic Perspectives* 10, no. 4 (1996): 91–112.
 
@@ -391,9 +391,9 @@ Auerbach, A. "[Taxation, Corporate Financial Policy, and the Cost of Capital](ht
 
 Auerbach, A., M. Devereux, and H. Simpson. "Taxing Corporate Income." In *Dimensions of Tax Design: The Mirrlees Review*. Edited by Institute for Fiscal Studies. Oxford University Press, 2010. ISBN: 9780199553754.
 
-Bernanke, B., H. Bohn, et al. "[Alternative Non-nested Specification Tests of Time Series Investment Models](http://dx.doi.org/10.1016/0304-4076(88)90008-5)." *Journal of Econometrics* 37, no. 3 (1988): 293–326.
+Bernanke, B., H. Bohn, et al. "[Alternative Non-nested Specification Tests of Time Series Investment Models](http://dx.doi.org/10.1016/0304-4076%2888%2990008-5)." *Journal of Econometrics* 37, no. 3 (1988): 293–326.
 
-Blundell, R., et al. "[Investment and Tobin's Q: Evidence from Company Panel Data](http://dx.doi.org/10.1016/0304-4076(92)90037-R)." *Journal of Econometrics* 51, no. 1–2 (1992): 233–58.
+Blundell, R., et al. "[Investment and Tobin's Q: Evidence from Company Panel Data](http://dx.doi.org/10.1016/0304-4076%2892%2990037-R)." *Journal of Econometrics* 51, no. 1–2 (1992): 233–58.
 
 Cummins, J., K. Hassett, et al. "[Investment Behavior, Observable Expectations, and Internal Funds](http://dx.doi.org/10.1257/aer.96.3.796)." *American Economic Review* 96, no. 3 (2006): 796–810.
 
@@ -451,7 +451,7 @@ Allen, F., and R. Michaely. "Payout Policy." In *Handbook of the Economics of Fi
 
 Auerbach, A. "Taxation and Corporate Financial Policy." In *Handbook of Public Economics*. Vol 3. Edited by A. Auerbach and M. Feldstein. North Holland, 2002, pp. 1252–92. ISBN: 9780444823144.
 
-Auerbach, A., and K. Hassett. "[On the Marginal Source of Investment Funds](http://dx.doi.org/10.1016/S0047-2727(01)00172-4)." *Journal of Public Economics* 87, no. 1 (2003): 205–32.
+Auerbach, A., and K. Hassett. "[On the Marginal Source of Investment Funds](http://dx.doi.org/10.1016/S0047-2727%2801%2900172-4)." *Journal of Public Economics* 87, no. 1 (2003): 205–32.
 
 ———. "[The 2003 Dividend Tax Cuts and the Value of the Firm: An Event Study](http://www.nber.org/papers/w11449)." In *Taxing Capital Income in the 21st Century*. Edited by A. Auerbach, J. Hines, and J. Slemrod. Cambridge University Press, 2007, 93–126. ISBN: 9780521870221.
 
@@ -495,21 +495,21 @@ Optimal Commodity Taxes: Ramsey and Beyond
 
 Asano, S., and T. Fukushima. "[Some Empirical Evidence on Demand System and Optimal Commodity Taxation](http://dx.doi.org/10.1111/j.1468-5876.2006.00306.x)." *Japanese Economic Review* 57, no. 1 (2006): 50–68.
 
-Auerbach, A. "[The Theory of Excess Burden and Optimal Taxation](http://dx.doi.org/10.1016/S1573-4420(85)80005-7)." In *Handbook of Public Economics*. Vol 1. Edited by M. Feldstein, and A. Auerbach. North Holland, 1985, pp. 61–125. ISBN: 9780444548931.
+Auerbach, A. "[The Theory of Excess Burden and Optimal Taxation](http://dx.doi.org/10.1016/S1573-4420%2885%2980005-7)." In *Handbook of Public Economics*. Vol 1. Edited by M. Feldstein, and A. Auerbach. North Holland, 1985, pp. 61–125. ISBN: 9780444548931.
 
-Auerbach, A., and J. Hines. "[Taxation and Economic Efficiency](http://dx.doi.org/10.1016/S1573-4420(02)80025-8)." In *Handbook of Public Economics*. Vol 3. Edited by A. Auerbach and M. Feldstein. North Holland, 2002, pp. 1348–421. ISBN: 9780444823144.
+Auerbach, A., and J. Hines. "[Taxation and Economic Efficiency](http://dx.doi.org/10.1016/S1573-4420%2802%2980025-8)." In *Handbook of Public Economics*. Vol 3. Edited by A. Auerbach and M. Feldstein. North Holland, 2002, pp. 1348–421. ISBN: 9780444823144.
 
-Chari, V. V., and P. Kehoe. "[Optimal Fiscal and Monetary Policy](http://dx.doi.org/10.1016/S1574-0048(99)10039-9)." Section 1 in *Handbook of Macroeconomics*. Edited by J. Taylor, and M. Woodford. North Holland, 1999. ISBN: 9780444501561. \[Preview with [Google Books](http://books.google.com/books?id=4MDzkGl9xocC&printsec=frontcover)\]
+Chari, V. V., and P. Kehoe. "[Optimal Fiscal and Monetary Policy](http://dx.doi.org/10.1016/S1574-0048%2899%2910039-9)." Section 1 in *Handbook of Macroeconomics*. Edited by J. Taylor, and M. Woodford. North Holland, 1999. ISBN: 9780444501561. \[Preview with [Google Books](http://books.google.com/books?id=4MDzkGl9xocC&printsec=frontcover)\]
 
 Deaton, A. ["Econometric Issues in Tax Design for Developing Countries." (PDF)](http://www.princeton.edu/~deaton/downloads/Econometric_Issues_for_Tax_Design_in_Developing_Countries.pdf) In *The Theory of Taxation in Developing Countries*. Edited by D. Newbery, and N. Stern. Oxford University Press, 1987, pp. 92–113. ISBN: 9780195205411.
 
-Deaton, A., and N. Stern. "[Optimally Uniform Commodity Taxes, Taste Differences, and Lump Sum Grants](http://dx.doi.org/10.1016/0165-1765(86)90035-2)." *Economics Letters* 20, no. 3 (1986): 263–6.
+Deaton, A., and N. Stern. "[Optimally Uniform Commodity Taxes, Taste Differences, and Lump Sum Grants](http://dx.doi.org/10.1016/0165-1765%2886%2990035-2)." *Economics Letters* 20, no. 3 (1986): 263–6.
 
-Diamond, P. "[A Many-Person Ramsey Tax Rule](http://dx.doi.org/10.1016/0047-2727(75)90009-2)." *Journal of Public Economics* 4, no. 4 (1975): 335–42.
+Diamond, P. "[A Many-Person Ramsey Tax Rule](http://dx.doi.org/10.1016/0047-2727%2875%2990009-2)." *Journal of Public Economics* 4, no. 4 (1975): 335–42.
 
-Diamond, P., and J. Mirrlees. ["Optimal Taxation and Public Production I: Production Efficiency" (PDF - 2.9MB)](http://darp.lse.ac.uk/PapersDB/Diamond-Mirrlees_2_%28AER_71%29.pdf), and ["Optimal Taxation and Public Production II: Tax Rules." (PDF)](http://www.aeaweb.org/aer/top20/61.3.261-278.pdf) *American Economic Review* 61, no. 1 (1971): 8–27, and 261–78.
+Diamond, P., and J. Mirrlees. ["Optimal Taxation and Public Production I: Production Efficiency](https://www.jstor.org/stable/1910538)", and ["Optimal Taxation and Public Production II: Tax Rules." (PDF)](http://www.aeaweb.org/aer/top20/61.3.261-278.pdf) *American Economic Review* 61, no. 1 (1971): 8–27, and 261–78.
 
-Dixit, A. "[Welfare Effects of Tax and Price Changes](http://dx.doi.org/10.1016/0047-2727(75)90014-6)." *Journal of Public Economics* 4, no. 2 (1975): 103–23.
+Dixit, A. "[Welfare Effects of Tax and Price Changes](http://dx.doi.org/10.1016/0047-2727%2875%2990014-6)." *Journal of Public Economics* 4, no. 2 (1975): 103–23.
 
 Kaplow, L. "[On the Undesirability of Commodity Taxation Even When Income Taxation is not Optimal](http://dx.doi.org/10.1016/j.jpubeco.2005.07.001)." *Journal of Public Economics* 90, no. 6–7 (2006): 1235–50.
 
@@ -519,11 +519,11 @@ Mankiw, N., M. Weinzierl, et al. "[Optimal Taxation in Theory and Practice](http
 
 Myles, G. Chapter 4 in *Public Economics*. Cambridge University Press, 1985. ISBN: 9780521497695. \[Preview with [Google Books](http://books.google.com/books?id=2jtvmYDrhoQC&printsec=frontcover)\]
 
-Naito, H. "[Re-Examination of Uniform Commodity Taxes Under a Non-Linear Income Tax System and Its Implication for Production Efficiency](http://dx.doi.org/10.1016/S0047-2727(98)00052-8)." *Journal of Public Economics* 71, no. 2 (1999): 165–88.
+Naito, H. "[Re-Examination of Uniform Commodity Taxes Under a Non-Linear Income Tax System and Its Implication for Production Efficiency](http://dx.doi.org/10.1016/S0047-2727%2898%2900052-8)." *Journal of Public Economics* 71, no. 2 (1999): 165–88.
 
 Stern, N. "The Theory of Optimal Commodity and Income Taxation: An Introduction." In *The Theory of Taxation in Developing Countries*. Edited by D. Newbery, and N. Stern. Oxford University Press, 1987, pp. 22–59. ISBN: 9780195205411.
 
-Saez, E. "[The Desirability of Commodity Taxation Under Non-Linear Income Taxation and Heterogeneous Tastes](http://dx.doi.org/10.1016/S0047-2727(00)00159-6)." *Journal of Public Economics* 83, no. 2 (2002): 217–30.
+Saez, E. "[The Desirability of Commodity Taxation Under Non-Linear Income Taxation and Heterogeneous Tastes](http://dx.doi.org/10.1016/S0047-2727%2800%2900159-6)." *Journal of Public Economics* 83, no. 2 (2002): 217–30.
 
 Slemrod, J. "[Optimal Taxation and Optimal Tax Systems](http://dx.doi.org/10.1257/jep.4.1.157)." *Journal of Economic Perspectives* 4, no. 1 (1990): 157–78.
 
@@ -571,7 +571,7 @@ Christiano, L., V. V. Chari, et al. "[Optimal Fiscal Policy in a Business Cycle 
 
 Fahri, E. ["Capital Taxation and Ownership when Markets are Incomplete." (PDF)](http://www.nber.org/papers/w13390.pdf) mimeo, Harvard, 2006.
 
-Lucas, R., and N. Stokey. "[Optimal Fiscal and Monetary Policy in an Economy without Capital](http://dx.doi.org/10.1016/0304-3932(83)90049-1)." *Journal of Monetary Economics* 12, no. 1 (1983): 55–93.
+Lucas, R., and N. Stokey. "[Optimal Fiscal and Monetary Policy in an Economy without Capital](http://dx.doi.org/10.1016/0304-3932%2883%2990049-1)." *Journal of Monetary Economics* 12, no. 1 (1983): 55–93.
 
 Werning, I. "[Optimal Fiscal Policy with Redistribution](http://dx.doi.org/10.1162/qjec.122.3.925)." *Quarterly Journal of Economics* 122, no. 3 (2007): 925–68.
 
@@ -583,7 +583,7 @@ Taxation of Labor Income—Theory
 
 Akerlof, G. ["The Economics of Tagging as Applied to the Optimal Income Tax." (PDF - 1.3MB)](http://www.ssc.wisc.edu/~scholz/Teaching_742/Akerlof.pdf) *American Economic Review* 68, no. 1 (1978): 8–19.
 
-Allen, F. "[Optimal Linear Income Taxation with General Equilibrium Effects on Wages](http://dx.doi.org/10.1016/0047-2727(82)90016-0)." *Journal of Public Economics* 17, no. 2 (1982): 135–44.
+Allen, F. "[Optimal Linear Income Taxation with General Equilibrium Effects on Wages](http://dx.doi.org/10.1016/0047-2727%2882%2990016-0)." *Journal of Public Economics* 17, no. 2 (1982): 135–44.
 
 Besley, T., and S. Coate. "[Workfare versus Welfare: Incentives Arguments for Work Requirements in Poverty-Alleviation Programs](http://ideas.repec.org/a/aea/aecrev/v82y1992i1p249-61.html)." *American Economic Review* 82, no. 1 (1992): 249–61.
 
@@ -595,19 +595,19 @@ Choné, P., and G. Laroque. "[Optimal Incentives for Labor Force Participation](
 
 ———. ["Optimal Taxation in the Extensive Model." (PDF)](http://www.ifs.org.uk/wps/wp0808.pdf) IFS Working Papers W08/08, Institute for Fiscal Studies.
 
-Diamond, P. "[Income Taxation with Fixed Hours of Work](http://dx.doi.org/10.1016/0047-2727(80)90024-9)." *Journal of Public Economics* 13, no. 1 (1980): 101–10.
+Diamond, P. "[Income Taxation with Fixed Hours of Work](http://dx.doi.org/10.1016/0047-2727%2880%2990024-9)." *Journal of Public Economics* 13, no. 1 (1980): 101–10.
 
 ———. ["Optimal Income Taxation: An Example with a U-Shaped Pattern of Optimal Marginal Tax Rates." (PDF - 1.8MB)](http://www.uib.es/depart/deaweb/webpersonal/amedeospadaro/workingpapers/bibliosecpub/Diamond.pdf) *American Economic Review* 88, no. 1 (1998): 83–95.
 
 Gaube, T. "[Optimal Taxation of Each Year's Income](http://dx.doi.org/10.1111/j.1467-9779.2007.00301.x)." *Journal of Public Economic Theory* 9, no. 1 (2007): 127–50.
 
-Helpman, E., and E. Sadka. "[The Optimal Income Tax: Some comparative statics results](http://dx.doi.org/10.1016/0047-2727(78)90018-X)." *Journal of Public Economics* 9, no. 3 (1978): 383–93.
+Helpman, E., and E. Sadka. "[The Optimal Income Tax: Some comparative statics results](http://dx.doi.org/10.1016/0047-2727%2878%2990018-X)." *Journal of Public Economics* 9, no. 3 (1978): 383–93.
 
 Immonen, R., R. Kanbur, et al. "[Tagging and Taxing: The Optimal Use of Categorical and Income Information in Designing Tax/Transfer Schemes](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=440021)." *Economica* 65 (1998): 179–92.
 
 Judd, K., and C. Su. ["Optimal Income Taxation with Multidimensional Taxpayer Types." (PDF)](https://pdfs.semanticscholar.org/2f0e/acfde06eb1eb65b03108f5c6f17b72b3b59d.pdf) mimeo, University of Chicago, 2006.
 
-Maskin, E., and J. Riley. "[Input versus Output Incentive Schemes](http://dx.doi.org/10.1016/0047-2727(85)90018-0)." *Journal of Public Economics* 28, no. 1 (1985): 1–24.
+Maskin, E., and J. Riley. "[Input versus Output Incentive Schemes](http://dx.doi.org/10.1016/0047-2727%2885%2990018-0)." *Journal of Public Economics* 28, no. 1 (1985): 1–24.
 
 Kleven, H., C. Kreiner, et al. "[The Optimal Income Taxation of Couples](http://dx.doi.org/10.3982/ECTA7343)." *Econometrica* 77, no. 2 (2009): 537–60.
 
@@ -621,15 +621,15 @@ Saez, E. "[Using Elasticities to Derive Optimal Income Tax Rates](http://dx.doi.
 
 ———. "[Optimal Income Transfer Programs: Intensive vs. Extensive Labor Supply Responses](http://dx.doi.org/10.1162/003355302760193959)." *Quarterly Journal of Economics* 117, no. 3 (2002): 1039–73.
 
-Slemrod, J., S. Yitzhaki, et al. "[The Optimal Two Bracket Linear Income Tax](http://dx.doi.org/10.1016/0047-2727(94)90024-8)." *Journal of Public Economics* 53, no. 2 (1994): 269–90.
+Slemrod, J., S. Yitzhaki, et al. "[The Optimal Two Bracket Linear Income Tax](http://dx.doi.org/10.1016/0047-2727%2894%2990024-8)." *Journal of Public Economics* 53, no. 2 (1994): 269–90.
 
-Stern, N. "[Optimum Taxes with Errors in Administration](http://dx.doi.org/10.1016/0047-2727(82)90019-6)." *Journal of Public Economics* 17, no. 2 (1982): 181–211.
+Stern, N. "[Optimum Taxes with Errors in Administration](http://dx.doi.org/10.1016/0047-2727%2882%2990019-6)." *Journal of Public Economics* 17, no. 2 (1982): 181–211.
 
-———. "[On the Specification of Models of Optimum Income Taxation](http://dx.doi.org/10.1016/0047-2727(76)90044-X)." *Journal of Public Economics* 6, no. 1–2 (1976): 123–62.
+———. "[On the Specification of Models of Optimum Income Taxation](http://dx.doi.org/10.1016/0047-2727%2876%2990044-X)." *Journal of Public Economics* 6, no. 1–2 (1976): 123–62.
 
-Stiglitz, J. "[Pareto Efficient and Optimal Taxation and the New New Welfare Economics](http://dx.doi.org/10.1016/S1573-4420(87)80010-1)." In *Handbook of Public Economics*. Vol 2. Edited by A. Auerbach, and M. Feldstein. North-Holland, 1990, pp. 991–1041. ISBN: 9780444879080.
+Stiglitz, J. "[Pareto Efficient and Optimal Taxation and the New New Welfare Economics](http://dx.doi.org/10.1016/S1573-4420%2887%2980010-1)." In *Handbook of Public Economics*. Vol 2. Edited by A. Auerbach, and M. Feldstein. North-Holland, 1990, pp. 991–1041. ISBN: 9780444879080.
 
-Werning, I. ["Pareto Efficient Income Taxation." (PDF)](http://econ-www.mit.edu/files/1281) MIT mimeo.
+Werning, I. ["Pareto Efficient Income Taxation." (PDF)](https://economics.mit.edu/sites/default/files/publications/Pareto%20Efficient%20Income%20Taxation.pdf) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -649,7 +649,7 @@ Atkinson, A., and J. Stiglitz. Chapter 8 in *Lectures on Public Economics*. McGr
 
 Banks, J., and P. Diamond. ["The Base for Direct Taxation." (PDF)](http://www.ucl.ac.uk/~uctp39a/Banks%20and%20Diamond.pdf) In *Dimensions of Tax Design: The Mirrlees Review*. Edited by Institute for Fiscal Studies. Oxford University Press, 2009. ISBN: 9780199553754.
 
-Bernheim, D. "[Taxation and Saving](http://dx.doi.org/10.1016/S1573-4420(02)80022-2)." Chapter 18 in *Handbook of Public Economics*. Vol 3. Edited by A. Auerbach, and M. Feldstein. North Holland, 2002. ISBN: 9780444823144.
+Bernheim, D. "[Taxation and Saving](http://dx.doi.org/10.1016/S1573-4420%2802%2980022-2)." Chapter 18 in *Handbook of Public Economics*. Vol 3. Edited by A. Auerbach, and M. Feldstein. North Holland, 2002. ISBN: 9780444823144.
 
 Benigno, P., and M. Woodford. "[Optimal Taxation in an RBC Model: A Linear Quadratic Approach](http://dx.doi.org/10.1016/j.jedc.2005.08.009)." *Journal of Economic Dynamics and Control* 30 (2006): 1445–89.
 
@@ -661,7 +661,7 @@ Conesa, J., S. Kitao, et al. "[Taxing Capital? Not a Bad Idea After All](http://
 
 Diamond, P., and J. Spinnewijn. ["Capital Income Taxes with Heterogeneous Discount Rates." (PDF)](http://personal.lse.ac.uk/spinnewi/capital.pdf) NBER Working Paper, no. 15115, 2009.
 
-Diamond, P. "[The Incidence of an Interest Income Tax](http://dx.doi.org/10.1016/0022-0531(70)90037-2)." *Journal of Economic Theory* 2, no. 3 (1970): 211–24.
+Diamond, P. "[The Incidence of an Interest Income Tax](http://dx.doi.org/10.1016/0022-0531%2870%2990037-2)." *Journal of Economic Theory* 2, no. 3 (1970): 211–24.
 
 Farhi, E., and I. Werning. "[Capital Taxation: Quantitative Explorations of the Inverse Euler Equation](http://econpapers.repec.org/article/ucpjpolec/doi_3a10.1086_2f666747.htm)." *Journal of Political Economy* 120, no. 3 (2012).
 
@@ -679,9 +679,9 @@ Judd, K. "Optimal Taxation in Dynamic Stochastic Economies: Theory and Evidence.
 
 ———. "[The Welfare Cost of Factor Taxation in a Perfect Foresight Model](http://econpapers.repec.org/article/ucpjpolec/v_3a95_3ay_3a1987_3ai_3a4_3ap_3a675-709.htm)." *Journal of Political Economy* 95, no. 4 (1987): 675–709.
 
-———. "[Redistributive Taxation in a Simple Perfect Foresight Model](http://dx.doi.org/10.1016/0047-2727(85)90020-9)." *Journal of Public Economics* 28, no. 1 (1985): 59–83.
+———. "[Redistributive Taxation in a Simple Perfect Foresight Model](http://dx.doi.org/10.1016/0047-2727%2885%2990020-9)." *Journal of Public Economics* 28, no. 1 (1985): 59–83.
 
-———. "[Optimal Taxation and Spending in General Competitive Growth Models](http://dx.doi.org/10.1016/S0047-2727(98)00054-1)." *Journal of Public Economics* 71, no. 1 (1999): 1–26.
+———. "[Optimal Taxation and Spending in General Competitive Growth Models](http://dx.doi.org/10.1016/S0047-2727%2898%2900054-1)." *Journal of Public Economics* 71, no. 1 (1999): 1–26.
 
 Kocherlakota, N. "[Zero Expected Wealth Taxes: A Mirrlees Approach to Dynamic Optimal Taxation](http://dx.doi.org/10.1111/j.1468-0262.2005.00630.x)." *Econometrica* 73, no. 5 (2005): 1587–622.
 
@@ -695,7 +695,7 @@ Saez, E. "[Optimal Progressive Capital Income Taxation in the Infinite Horizon M
 
 Stokey, N., and S. Rebelo. "[Growth Effects of Flat-Rate Taxes](http://ideas.repec.org/a/ucp/jpolec/v103y1995i3p519-50.html)." *Journal of Political Economy* 103, no. 3 (1995): 519–50.
 
-Werning, I. ["Nonlinear Capital Taxation." (PDF)](https://cowles.yale.edu/sites/default/files/files/conf/2010/sum_werning.pdf) working paper, MIT, September 2011.
+Werning, I. "Nonlinear Capital Taxation." Working paper, MIT, September 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -729,6 +729,6 @@ Piketty, T., and E. Saez. ["A Theory of Optimal Capital Taxation." (PDF)](http:/
 
 ———. "[The Evolution of Top Incomes: A Historical and International Perspective](http://dx.doi.org/10.1257/000282806777212116)." *American Economic Review, Papers and Proceedings* 96, no. 2 (2006): 200–5. (NBER Working Paper No. 11955 version)
 
-Poterba, J. "[The Estate and Gift Tax and Inter Vivos Giving in the United States](http://dx.doi.org/10.1016/S0047-2727(00)00102-X)." *Journal of Public Economics* 79, no. 1 (2001): 237–64.
+Poterba, J. "[The Estate and Gift Tax and Inter Vivos Giving in the United States](http://dx.doi.org/10.1016/S0047-2727%2800%2900102-X)." *Journal of Public Economics* 79, no. 1 (2001): 237–64.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
