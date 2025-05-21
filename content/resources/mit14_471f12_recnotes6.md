@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding optimal taxation and public
   production I: Production efficiency.'
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/29a806c4ea86be885853fdb9f23fc3b4_MIT14_471F12_recnotes6.pdf
+file: /courses/14-471-public-economics-i-fall-2012/29a806c4ea86be885853fdb9f23fc3b4_MIT14_471F12_recnotes6.pdf
 file_size: 547144
 file_type: application/pdf
 learning_resource_types:

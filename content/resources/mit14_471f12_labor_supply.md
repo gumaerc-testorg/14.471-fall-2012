@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding empirical analysis of taxation
   and labor supply notes.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/7ea571582143e856e83c3d724ed58b4c_MIT14_471F12_labor_supply.pdf
+file: /courses/14-471-public-economics-i-fall-2012/7ea571582143e856e83c3d724ed58b4c_MIT14_471F12_labor_supply.pdf
 file_size: 652796
 file_type: application/pdf
 learning_resource_types:

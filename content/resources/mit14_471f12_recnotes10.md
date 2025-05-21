@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding income taxation with fixed
   hour of work.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/59a0df66a627a90bc10d279b639962f6_MIT14_471F12_recnotes10.pdf
+file: /courses/14-471-public-economics-i-fall-2012/59a0df66a627a90bc10d279b639962f6_MIT14_471F12_recnotes10.pdf
 file_size: 371433
 file_type: application/pdf
 learning_resource_types:
