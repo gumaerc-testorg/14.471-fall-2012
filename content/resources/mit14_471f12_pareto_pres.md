@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding pareto efficient income
   taxation.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/ae6580d942fe24d0a332ea2903e00e6c_MIT14_471F12_Pareto_pres.pdf
+file: /courses/14-471-public-economics-i-fall-2012/ae6580d942fe24d0a332ea2903e00e6c_MIT14_471F12_Pareto_pres.pdf
 file_size: 568004
 file_type: application/pdf
 learning_resource_types:

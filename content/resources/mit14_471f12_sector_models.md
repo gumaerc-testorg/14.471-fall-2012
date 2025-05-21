@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding tax incidence in multi-sector
   models notes.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/e7a066f25c9c119256680260c4b7d163_MIT14_471F12_Sector_Models.pdf
+file: /courses/14-471-public-economics-i-fall-2012/e7a066f25c9c119256680260c4b7d163_MIT14_471F12_Sector_Models.pdf
 file_size: 262892
 file_type: application/pdf
 learning_resource_types:

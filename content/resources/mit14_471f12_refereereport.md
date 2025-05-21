@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding referee report assignment.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/01a34ebae16eb1d0db4b229b96fa922d_MIT14_471F12_RefereeReport.pdf
+file: /courses/14-471-public-economics-i-fall-2012/01a34ebae16eb1d0db4b229b96fa922d_MIT14_471F12_RefereeReport.pdf
 file_size: 592543
 file_type: application/pdf
 learning_resource_types:

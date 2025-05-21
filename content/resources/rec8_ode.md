@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for recitation 8.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/f23a8863e3277de025743aba23ee70af_rec8_ode.m
+file: /courses/14-471-public-economics-i-fall-2012/f23a8863e3277de025743aba23ee70af_rec8_ode.m
 file_size: 3588
 file_type: text/x-objcsrc
 learning_resource_types:
