@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding a brief introduction to
   econometrics simulations.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/6868e4661e8c2d6b8d8d202fc97fffb4_MIT14_471F12_matlabintro.pdf
+file: /courses/14-471-public-economics-i-fall-2012/6868e4661e8c2d6b8d8d202fc97fffb4_MIT14_471F12_matlabintro.pdf
 file_size: 397269
 file_type: application/pdf
 learning_resource_types:

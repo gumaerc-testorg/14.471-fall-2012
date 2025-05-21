@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding overview tax results.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/8424e343baacf31b0138421ef9529da9_MIT14_471F12_recnotes13.pdf
+file: /courses/14-471-public-economics-i-fall-2012/8424e343baacf31b0138421ef9529da9_MIT14_471F12_recnotes13.pdf
 file_size: 350175
 file_type: application/pdf
 learning_resource_types:

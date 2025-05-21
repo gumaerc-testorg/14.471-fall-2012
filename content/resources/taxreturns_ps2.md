@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special resource for problem set 2.
-file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/1f581c89fb95c980e622d2fdb5725332_taxreturns_ps2.dta
+file: /courses/14-471-public-economics-i-fall-2012/1f581c89fb95c980e622d2fdb5725332_taxreturns_ps2.dta
 file_size: 666
 file_type: application/octet-stream
 learning_resource_types:
