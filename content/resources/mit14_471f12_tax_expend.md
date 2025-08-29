@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding tax expenditures notes.
-file: /courses/14-471-public-economics-i-fall-2012/322183b94092d7e8950af34548a46066_MIT14_471F12_tax_expend.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/322183b94092d7e8950af34548a46066_MIT14_471F12_tax_expend.pdf
 file_size: 608807
 file_type: application/pdf
 learning_resource_types:

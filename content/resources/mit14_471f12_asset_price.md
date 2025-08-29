@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding asset price approach to
   incidence notes.
-file: /courses/14-471-public-economics-i-fall-2012/f26a1923b553827e7ff77063e64bed06_MIT14_471F12_asset_price.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/f26a1923b553827e7ff77063e64bed06_MIT14_471F12_asset_price.pdf
 file_size: 113348
 file_type: application/pdf
 learning_resource_types:

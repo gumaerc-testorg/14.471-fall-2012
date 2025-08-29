@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding taxation of saving notes.
-file: /courses/14-471-public-economics-i-fall-2012/5437f7126ff24a1c4874174e427bf411_MIT14_471F12_saving.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/5437f7126ff24a1c4874174e427bf411_MIT14_471F12_saving.pdf
 file_size: 1303258
 file_type: application/pdf
 learning_resource_types:

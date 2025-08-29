@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding corrective taxation notes.
-file: /courses/14-471-public-economics-i-fall-2012/5928e0f253b074483ed9a6cfc81d8684_MIT14_471F12_corrective_tax.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/5928e0f253b074483ed9a6cfc81d8684_MIT14_471F12_corrective_tax.pdf
 file_size: 195613
 file_type: application/pdf
 learning_resource_types:
