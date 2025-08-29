@@ -215,7 +215,7 @@ Meyer, B. "[Labor Supply at the Extensive and Intensive Margins: The EITC, Welfa
 
 Meyer, B., and D. Rosenbaum. ["Making Single Mothers Work: Recent Tax and Welfare Policy and Its Effects." (PDF - 1.7MB)](http://www.nber.org/papers/w7491.pdf?new_window=1) *National Tax Journal* 53 (2000, Part 2): 1027–61.
 
-Rothstein, J. ["The Unintended Consequences of Encouraging Work: Tax Incidence and the EITC." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.3478&rep=rep1&type=pdf) Working paper, no. 165, Princeton University, May 2008.
+Rothstein, J. ["The Unintended Consequences of Encouraging Work: Tax Incidence and the EITC." (PDF)](https://ideas.repec.org/p/pri/cepsud/165.html) Working paper, no. 165, Princeton University, May 2008.
 
 ———. "[Is the EITC as Good as an NIT? Conditional Cash Transfers and Tax Incidence](http://dx.doi.org/10.1257/pol.2.1.177)." *American Economic Journal: Economic Policy* 2, no. 1 (2010): 177–208.
 
