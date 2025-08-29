@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding elasticity of taxable income
   notes.
-file: /courses/14-471-public-economics-i-fall-2012/25c9f1b85421206a6cd17444bbc301cd_MIT14_471F12_elasticity.pdf
+file: /ol-ocw-studio-app/courses/14-471-public-economics-i-fall-2012/25c9f1b85421206a6cd17444bbc301cd_MIT14_471F12_elasticity.pdf
 file_size: 185681
 file_type: application/pdf
 learning_resource_types:
